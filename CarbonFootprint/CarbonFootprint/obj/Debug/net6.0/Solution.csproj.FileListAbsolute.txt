@@ -12,3 +12,17 @@ C:\Users\mehul.nandwana\source\repos\CarbonFootprint\CarbonFootprint\obj\Debug\n
 C:\Users\mehul.nandwana\source\repos\CarbonFootprint\CarbonFootprint\obj\Debug\net6.0\Solution.pdb
 C:\Users\mehul.nandwana\source\repos\CarbonFootprint\CarbonFootprint\obj\Debug\net6.0\Solution.genruntimeconfig.cache
 C:\Users\mehul.nandwana\source\repos\CarbonFootprint\CarbonFootprint\obj\Debug\net6.0\ref\Solution.dll
+C:\Users\mehul.nandwana\Desktop\New folder (2)\learn-and-code-2023\CarbonFootprint\CarbonFootprint\obj\Debug\net6.0\Solution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehul.nandwana\Desktop\New folder (2)\learn-and-code-2023\CarbonFootprint\CarbonFootprint\obj\Debug\net6.0\Solution.AssemblyInfoInputs.cache
+C:\Users\mehul.nandwana\Desktop\New folder (2)\learn-and-code-2023\CarbonFootprint\CarbonFootprint\obj\Debug\net6.0\Solution.AssemblyInfo.cs
+C:\Users\mehul.nandwana\Desktop\New folder (2)\learn-and-code-2023\CarbonFootprint\CarbonFootprint\obj\Debug\net6.0\Solution.csproj.CoreCompileInputs.cache
+C:\Users\mehul.nandwana\Desktop\New folder (2)\learn-and-code-2023\CarbonFootprint\CarbonFootprint\obj\Debug\net6.0\Solution.dll
+C:\Users\mehul.nandwana\Desktop\New folder (2)\learn-and-code-2023\CarbonFootprint\CarbonFootprint\obj\Debug\net6.0\refint\Solution.dll
+C:\Users\mehul.nandwana\Desktop\New folder (2)\learn-and-code-2023\CarbonFootprint\CarbonFootprint\obj\Debug\net6.0\Solution.pdb
+C:\Users\mehul.nandwana\Desktop\New folder (2)\learn-and-code-2023\CarbonFootprint\CarbonFootprint\bin\Debug\net6.0\Solution.exe
+C:\Users\mehul.nandwana\Desktop\New folder (2)\learn-and-code-2023\CarbonFootprint\CarbonFootprint\bin\Debug\net6.0\Solution.deps.json
+C:\Users\mehul.nandwana\Desktop\New folder (2)\learn-and-code-2023\CarbonFootprint\CarbonFootprint\bin\Debug\net6.0\Solution.runtimeconfig.json
+C:\Users\mehul.nandwana\Desktop\New folder (2)\learn-and-code-2023\CarbonFootprint\CarbonFootprint\bin\Debug\net6.0\Solution.dll
+C:\Users\mehul.nandwana\Desktop\New folder (2)\learn-and-code-2023\CarbonFootprint\CarbonFootprint\bin\Debug\net6.0\Solution.pdb
+C:\Users\mehul.nandwana\Desktop\New folder (2)\learn-and-code-2023\CarbonFootprint\CarbonFootprint\obj\Debug\net6.0\Solution.genruntimeconfig.cache
+C:\Users\mehul.nandwana\Desktop\New folder (2)\learn-and-code-2023\CarbonFootprint\CarbonFootprint\obj\Debug\net6.0\ref\Solution.dll

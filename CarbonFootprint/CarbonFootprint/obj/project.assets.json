@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mehul.nandwana\\source\\repos\\CarbonFootprint\\CarbonFootprint\\Solution.csproj",
+      "projectUniqueName": "C:\\Users\\mehul.nandwana\\Desktop\\New folder (2)\\learn-and-code-2023\\CarbonFootprint\\CarbonFootprint\\Solution.csproj",
       "projectName": "Solution",
-      "projectPath": "C:\\Users\\mehul.nandwana\\source\\repos\\CarbonFootprint\\CarbonFootprint\\Solution.csproj",
+      "projectPath": "C:\\Users\\mehul.nandwana\\Desktop\\New folder (2)\\learn-and-code-2023\\CarbonFootprint\\CarbonFootprint\\Solution.csproj",
       "packagesPath": "C:\\Users\\mehul.nandwana\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mehul.nandwana\\source\\repos\\CarbonFootprint\\CarbonFootprint\\obj\\",
+      "outputPath": "C:\\Users\\mehul.nandwana\\Desktop\\New folder (2)\\learn-and-code-2023\\CarbonFootprint\\CarbonFootprint\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

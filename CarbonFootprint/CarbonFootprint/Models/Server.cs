@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Solution.Models
 {
-    internal class Server
+     public class Server
     {
         public int duration = 0;
         public int powerConsumption=0;

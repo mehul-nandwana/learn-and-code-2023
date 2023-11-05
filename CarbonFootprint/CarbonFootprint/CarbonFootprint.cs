@@ -4,15 +4,13 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using static Solution.Constants;
 
 namespace Solution
 {
     public class CarbonFootprint
     {
-        const double intensityOfCarbon = 0.5;
-        const double gmailCarbonIntensity = 0.3;
-        const double yahooCarbonIntensity = 0.5;
-        const double outlookCarbonIntensity = 0.7;
+        
         public double FindCarbonEmissionForEmail(string source,int inbox, int spam, int send)
         {
             if (source.Equals("gmail"))
