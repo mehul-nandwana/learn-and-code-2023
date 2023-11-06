@@ -17,12 +17,12 @@ class CarbonEmission
                 if (email.source.ToLower().Equals("outlook") || email.source.ToLower().Equals("yahoo") || email.source.ToLower().Equals("gmail"))
                 {
                     Console.WriteLine("Enter the inbox mail");
-                    email.numberOfInboxMail = Convert.ToInt32(Console.ReadLine());
+                    email.countOfInboxMail = Convert.ToInt32(Console.ReadLine());
                     Console.WriteLine("Enter the spam mail");
-                    email.numberOfSpamMail = Convert.ToInt32(Console.ReadLine());
+                    email.countOfSpamMail = Convert.ToInt32(Console.ReadLine());
                     Console.WriteLine("Enter the send mail");
-                    email.numberOfSendMail = Convert.ToInt32(Console.ReadLine());
-                    double totalCarbonEmission = carbonFootprint.FindCarbonEmissionForEmail(email.source,email.numberOfInboxMail, email.numberOfSpamMail, email.numberOfSendMail);
+                    email.countOfSendMail = Convert.ToInt32(Console.ReadLine());
+                    double totalCarbonEmission = carbonFootprint.FindCarbonEmissionForEmail(email.source,email.countOfInboxMail, email.countOfSpamMail, email.countOfSendMail);
                     Console.WriteLine("Carbon Emission is " + totalCarbonEmission + " gram");
                 }
                 else
