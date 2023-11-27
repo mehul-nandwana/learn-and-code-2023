@@ -12,6 +12,7 @@ namespace Solution.Models
        public int countOfSpamMail = 0;
        public int countOfSendMail = 0;
        public string source = string.Empty;
+       public string password = string.Empty;
 
     }
 }

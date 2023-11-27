@@ -1,8 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "qjFtZP2x9KD/gaUTZPB9twTtp2+9QMLtG3HIUWKUWYKnpJtC7CiLTxGhxb4/fvHGJ7/0xnWRbBgPoHYn0CflXg==",
+  "dgSpecHash": "P05MwGMaElX4zIgt+CGGSXcrFfWfpBmGIWNIRwdB0Xo64cVgqEqlBvK2AcMHbV+fgVmwnlm8O1JEDbmmw1q4Gw==",
   "success": true,
   "projectFilePath": "C:\\Users\\mehul.nandwana\\Desktop\\New folder (2)\\learn-and-code-2023\\CarbonFootprint\\CarbonFootprint\\Solution.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\mehul.nandwana\\.nuget\\packages\\bouncycastle.cryptography\\2.2.1\\bouncycastle.cryptography.2.2.1.nupkg.sha512",
+    "C:\\Users\\mehul.nandwana\\.nuget\\packages\\mailkit\\4.3.0\\mailkit.4.3.0.nupkg.sha512",
+    "C:\\Users\\mehul.nandwana\\.nuget\\packages\\mimekit\\4.3.0\\mimekit.4.3.0.nupkg.sha512",
+    "C:\\Users\\mehul.nandwana\\.nuget\\packages\\system.formats.asn1\\7.0.0\\system.formats.asn1.7.0.0.nupkg.sha512",
+    "C:\\Users\\mehul.nandwana\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\mehul.nandwana\\.nuget\\packages\\system.security.cryptography.pkcs\\7.0.3\\system.security.cryptography.pkcs.7.0.3.nupkg.sha512",
+    "C:\\Users\\mehul.nandwana\\.nuget\\packages\\system.text.encoding.codepages\\7.0.0\\system.text.encoding.codepages.7.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

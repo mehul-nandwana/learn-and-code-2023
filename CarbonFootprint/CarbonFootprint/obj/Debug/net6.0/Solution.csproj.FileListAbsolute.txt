@@ -26,3 +26,13 @@ C:\Users\mehul.nandwana\Desktop\New folder (2)\learn-and-code-2023\CarbonFootpri
 C:\Users\mehul.nandwana\Desktop\New folder (2)\learn-and-code-2023\CarbonFootprint\CarbonFootprint\bin\Debug\net6.0\Solution.pdb
 C:\Users\mehul.nandwana\Desktop\New folder (2)\learn-and-code-2023\CarbonFootprint\CarbonFootprint\obj\Debug\net6.0\Solution.genruntimeconfig.cache
 C:\Users\mehul.nandwana\Desktop\New folder (2)\learn-and-code-2023\CarbonFootprint\CarbonFootprint\obj\Debug\net6.0\ref\Solution.dll
+C:\Users\mehul.nandwana\Desktop\New folder (2)\learn-and-code-2023\CarbonFootprint\CarbonFootprint\bin\Debug\net6.0\BouncyCastle.Cryptography.dll
+C:\Users\mehul.nandwana\Desktop\New folder (2)\learn-and-code-2023\CarbonFootprint\CarbonFootprint\bin\Debug\net6.0\MailKit.dll
+C:\Users\mehul.nandwana\Desktop\New folder (2)\learn-and-code-2023\CarbonFootprint\CarbonFootprint\bin\Debug\net6.0\MimeKit.dll
+C:\Users\mehul.nandwana\Desktop\New folder (2)\learn-and-code-2023\CarbonFootprint\CarbonFootprint\bin\Debug\net6.0\System.Formats.Asn1.dll
+C:\Users\mehul.nandwana\Desktop\New folder (2)\learn-and-code-2023\CarbonFootprint\CarbonFootprint\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\mehul.nandwana\Desktop\New folder (2)\learn-and-code-2023\CarbonFootprint\CarbonFootprint\bin\Debug\net6.0\System.Text.Encoding.CodePages.dll
+C:\Users\mehul.nandwana\Desktop\New folder (2)\learn-and-code-2023\CarbonFootprint\CarbonFootprint\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\mehul.nandwana\Desktop\New folder (2)\learn-and-code-2023\CarbonFootprint\CarbonFootprint\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Text.Encoding.CodePages.dll
+C:\Users\mehul.nandwana\Desktop\New folder (2)\learn-and-code-2023\CarbonFootprint\CarbonFootprint\obj\Debug\net6.0\Solution.csproj.AssemblyReference.cache
+C:\Users\mehul.nandwana\Desktop\New folder (2)\learn-and-code-2023\CarbonFootprint\CarbonFootprint\obj\Debug\net6.0\Solution.csproj.CopyComplete
