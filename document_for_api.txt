@@ -1,0 +1,20 @@
+3 layers
+->controllers(class)
+class-SignUpController
+function addUser(user)
+
+->service(business logic password related)
+Interface-ISignUpService
+class-SignUpService
+function -RegisterUser(User)
+
+->database
+Interface-ISignUpRepository
+class-SignUpRepository
+saveUser(user)
+
+model
+class-User(id,name,password,email)
+users(model with initial entries)
+try catch include(return error code and proper message for user)
+model validation
