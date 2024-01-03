@@ -8,12 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-<<<<<<< Updated upstream
-    <PackageReference Include="MailKit" Version="4.3.0" />
-    <PackageReference Include="Mimekit" Version="4.3.0" />
-=======
     <PackageReference Include="mailkit" Version="4.3.0" />
->>>>>>> Stashed changes
   </ItemGroup>
 
 </Project>
