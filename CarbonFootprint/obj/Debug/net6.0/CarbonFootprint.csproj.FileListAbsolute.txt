@@ -1,0 +1,14 @@
+C:\Users\mehul.nandwana\source\repos\CarbonFootprint\CarbonFootprint\obj\Debug\net6.0\CarbonFootprint.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehul.nandwana\source\repos\CarbonFootprint\CarbonFootprint\obj\Debug\net6.0\CarbonFootprint.AssemblyInfoInputs.cache
+C:\Users\mehul.nandwana\source\repos\CarbonFootprint\CarbonFootprint\obj\Debug\net6.0\CarbonFootprint.AssemblyInfo.cs
+C:\Users\mehul.nandwana\source\repos\CarbonFootprint\CarbonFootprint\obj\Debug\net6.0\CarbonFootprint.csproj.CoreCompileInputs.cache
+C:\Users\mehul.nandwana\source\repos\CarbonFootprint\CarbonFootprint\bin\Debug\net6.0\CarbonFootprint.exe
+C:\Users\mehul.nandwana\source\repos\CarbonFootprint\CarbonFootprint\bin\Debug\net6.0\CarbonFootprint.deps.json
+C:\Users\mehul.nandwana\source\repos\CarbonFootprint\CarbonFootprint\bin\Debug\net6.0\CarbonFootprint.runtimeconfig.json
+C:\Users\mehul.nandwana\source\repos\CarbonFootprint\CarbonFootprint\bin\Debug\net6.0\CarbonFootprint.dll
+C:\Users\mehul.nandwana\source\repos\CarbonFootprint\CarbonFootprint\bin\Debug\net6.0\CarbonFootprint.pdb
+C:\Users\mehul.nandwana\source\repos\CarbonFootprint\CarbonFootprint\obj\Debug\net6.0\CarbonFootprint.dll
+C:\Users\mehul.nandwana\source\repos\CarbonFootprint\CarbonFootprint\obj\Debug\net6.0\refint\CarbonFootprint.dll
+C:\Users\mehul.nandwana\source\repos\CarbonFootprint\CarbonFootprint\obj\Debug\net6.0\CarbonFootprint.pdb
+C:\Users\mehul.nandwana\source\repos\CarbonFootprint\CarbonFootprint\obj\Debug\net6.0\CarbonFootprint.genruntimeconfig.cache
+C:\Users\mehul.nandwana\source\repos\CarbonFootprint\CarbonFootprint\obj\Debug\net6.0\ref\CarbonFootprint.dll

@@ -1,0 +1,38 @@
+<root>
+	# Set default charset
+	[*]
+	charset = utf-8
+
+	# Tab indentation (use spaces if necessary)
+	[*.cs]
+	indent_style = space
+	indent_size = 4
+
+	# Insert a newline character at the end of each file
+	insert_final_newline = true
+
+	# Trim trailing whitespace
+	trim_trailing_whitespace = true
+
+	# Define maximum line length
+	max_line_length = 120
+
+	# Vertical Formatting
+	# Group related items together, such as fields, constructors, methods
+	csharp_preserve_single_line_blocks = false
+	csharp_preserve_single_line_statements = false
+
+	# Horizontal Formatting
+	# Keep lines short, avoid long lines that require scrolling
+	csharp_space_before_open_square_bracket = false
+	csharp_space_after_open_square_bracket = false
+	csharp_space_before_close_square_bracket = false
+	csharp_space_before_open_paren = false
+	csharp_space_after_open_paren = false
+	csharp_space_before_close_paren = false
+	csharp_space_after_comma = true
+	csharp_space_after_semicolon = true
+	csharp_space_around_binary_operators = true
+	csharp_space_around_assignment_operators = true
+	csharp_space_after_colon_in_base_type_declaration = true
+</root>
