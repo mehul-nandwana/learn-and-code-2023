@@ -1,0 +1,14 @@
+C:\Users\mehul.nandwana\source\repos\KarprekarContant\KarprekarContant\bin\Debug\net6.0\KarprekarContant.exe
+C:\Users\mehul.nandwana\source\repos\KarprekarContant\KarprekarContant\bin\Debug\net6.0\KarprekarContant.deps.json
+C:\Users\mehul.nandwana\source\repos\KarprekarContant\KarprekarContant\bin\Debug\net6.0\KarprekarContant.runtimeconfig.json
+C:\Users\mehul.nandwana\source\repos\KarprekarContant\KarprekarContant\bin\Debug\net6.0\KarprekarContant.dll
+C:\Users\mehul.nandwana\source\repos\KarprekarContant\KarprekarContant\bin\Debug\net6.0\KarprekarContant.pdb
+C:\Users\mehul.nandwana\source\repos\KarprekarContant\KarprekarContant\obj\Debug\net6.0\KarprekarContant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehul.nandwana\source\repos\KarprekarContant\KarprekarContant\obj\Debug\net6.0\KarprekarContant.AssemblyInfoInputs.cache
+C:\Users\mehul.nandwana\source\repos\KarprekarContant\KarprekarContant\obj\Debug\net6.0\KarprekarContant.AssemblyInfo.cs
+C:\Users\mehul.nandwana\source\repos\KarprekarContant\KarprekarContant\obj\Debug\net6.0\KarprekarContant.csproj.CoreCompileInputs.cache
+C:\Users\mehul.nandwana\source\repos\KarprekarContant\KarprekarContant\obj\Debug\net6.0\KarprekarContant.dll
+C:\Users\mehul.nandwana\source\repos\KarprekarContant\KarprekarContant\obj\Debug\net6.0\refint\KarprekarContant.dll
+C:\Users\mehul.nandwana\source\repos\KarprekarContant\KarprekarContant\obj\Debug\net6.0\KarprekarContant.pdb
+C:\Users\mehul.nandwana\source\repos\KarprekarContant\KarprekarContant\obj\Debug\net6.0\KarprekarContant.genruntimeconfig.cache
+C:\Users\mehul.nandwana\source\repos\KarprekarContant\KarprekarContant\obj\Debug\net6.0\ref\KarprekarContant.dll
