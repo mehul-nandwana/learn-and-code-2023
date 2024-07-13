@@ -1,0 +1,418 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaRecomendationEngineClient\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{07143FA9-AA65-4A34-A212-D277CDE47BE3}|CafeteriaRecomendationEngineClient\\CafeteriaRecomendationEngineClient.csproj|c:\\users\\mehul.nandwana\\source\\repos\\cafeteriarecomendationengineclient\\cafeteriarecomendationengineclient\\client\\jsonserializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07143FA9-AA65-4A34-A212-D277CDE47BE3}|CafeteriaRecomendationEngineClient\\CafeteriaRecomendationEngineClient.csproj|solutionrelative:cafeteriarecomendationengineclient\\client\\jsonserializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07143FA9-AA65-4A34-A212-D277CDE47BE3}|CafeteriaRecomendationEngineClient\\CafeteriaRecomendationEngineClient.csproj|c:\\users\\mehul.nandwana\\source\\repos\\cafeteriarecomendationengineclient\\cafeteriarecomendationengineclient\\client\\requestprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07143FA9-AA65-4A34-A212-D277CDE47BE3}|CafeteriaRecomendationEngineClient\\CafeteriaRecomendationEngineClient.csproj|solutionrelative:cafeteriarecomendationengineclient\\client\\requestprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07143FA9-AA65-4A34-A212-D277CDE47BE3}|CafeteriaRecomendationEngineClient\\CafeteriaRecomendationEngineClient.csproj|c:\\users\\mehul.nandwana\\source\\repos\\cafeteriarecomendationengineclient\\cafeteriarecomendationengineclient\\client\\consoleoutput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07143FA9-AA65-4A34-A212-D277CDE47BE3}|CafeteriaRecomendationEngineClient\\CafeteriaRecomendationEngineClient.csproj|solutionrelative:cafeteriarecomendationengineclient\\client\\consoleoutput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07143FA9-AA65-4A34-A212-D277CDE47BE3}|CafeteriaRecomendationEngineClient\\CafeteriaRecomendationEngineClient.csproj|c:\\users\\mehul.nandwana\\source\\repos\\cafeteriarecomendationengineclient\\cafeteriarecomendationengineclient\\client\\userinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07143FA9-AA65-4A34-A212-D277CDE47BE3}|CafeteriaRecomendationEngineClient\\CafeteriaRecomendationEngineClient.csproj|solutionrelative:cafeteriarecomendationengineclient\\client\\userinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07143FA9-AA65-4A34-A212-D277CDE47BE3}|CafeteriaRecomendationEngineClient\\CafeteriaRecomendationEngineClient.csproj|c:\\users\\mehul.nandwana\\source\\repos\\cafeteriarecomendationengineclient\\cafeteriarecomendationengineclient\\dto\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07143FA9-AA65-4A34-A212-D277CDE47BE3}|CafeteriaRecomendationEngineClient\\CafeteriaRecomendationEngineClient.csproj|solutionrelative:cafeteriarecomendationengineclient\\dto\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07143FA9-AA65-4A34-A212-D277CDE47BE3}|CafeteriaRecomendationEngineClient\\CafeteriaRecomendationEngineClient.csproj|c:\\users\\mehul.nandwana\\source\\repos\\cafeteriarecomendationengineclient\\cafeteriarecomendationengineclient\\models\\constant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07143FA9-AA65-4A34-A212-D277CDE47BE3}|CafeteriaRecomendationEngineClient\\CafeteriaRecomendationEngineClient.csproj|solutionrelative:cafeteriarecomendationengineclient\\models\\constant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07143FA9-AA65-4A34-A212-D277CDE47BE3}|CafeteriaRecomendationEngineClient\\CafeteriaRecomendationEngineClient.csproj|c:\\users\\mehul.nandwana\\source\\repos\\cafeteriarecomendationengineclient\\cafeteriarecomendationengineclient\\client\\clienthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07143FA9-AA65-4A34-A212-D277CDE47BE3}|CafeteriaRecomendationEngineClient\\CafeteriaRecomendationEngineClient.csproj|solutionrelative:cafeteriarecomendationengineclient\\client\\clienthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07143FA9-AA65-4A34-A212-D277CDE47BE3}|CafeteriaRecomendationEngineClient\\CafeteriaRecomendationEngineClient.csproj|c:\\users\\mehul.nandwana\\source\\repos\\cafeteriarecomendationengineclient\\cafeteriarecomendationengineclient\\dto\\feedbackdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07143FA9-AA65-4A34-A212-D277CDE47BE3}|CafeteriaRecomendationEngineClient\\CafeteriaRecomendationEngineClient.csproj|solutionrelative:cafeteriarecomendationengineclient\\dto\\feedbackdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07143FA9-AA65-4A34-A212-D277CDE47BE3}|CafeteriaRecomendationEngineClient\\CafeteriaRecomendationEngineClient.csproj|c:\\users\\mehul.nandwana\\source\\repos\\cafeteriarecomendationengineclient\\cafeteriarecomendationengineclient\\dto\\showmenuitemdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07143FA9-AA65-4A34-A212-D277CDE47BE3}|CafeteriaRecomendationEngineClient\\CafeteriaRecomendationEngineClient.csproj|solutionrelative:cafeteriarecomendationengineclient\\dto\\showmenuitemdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07143FA9-AA65-4A34-A212-D277CDE47BE3}|CafeteriaRecomendationEngineClient\\CafeteriaRecomendationEngineClient.csproj|c:\\users\\mehul.nandwana\\source\\repos\\cafeteriarecomendationengineclient\\cafeteriarecomendationengineclient\\models\\fooditemdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07143FA9-AA65-4A34-A212-D277CDE47BE3}|CafeteriaRecomendationEngineClient\\CafeteriaRecomendationEngineClient.csproj|solutionrelative:cafeteriarecomendationengineclient\\models\\fooditemdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07143FA9-AA65-4A34-A212-D277CDE47BE3}|CafeteriaRecomendationEngineClient\\CafeteriaRecomendationEngineClient.csproj|c:\\users\\mehul.nandwana\\source\\repos\\cafeteriarecomendationengineclient\\cafeteriarecomendationengineclient\\models\\customprotocolparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07143FA9-AA65-4A34-A212-D277CDE47BE3}|CafeteriaRecomendationEngineClient\\CafeteriaRecomendationEngineClient.csproj|solutionrelative:cafeteriarecomendationengineclient\\models\\customprotocolparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07143FA9-AA65-4A34-A212-D277CDE47BE3}|CafeteriaRecomendationEngineClient\\CafeteriaRecomendationEngineClient.csproj|c:\\users\\mehul.nandwana\\source\\repos\\cafeteriarecomendationengineclient\\cafeteriarecomendationengineclient\\dto\\discarditemdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07143FA9-AA65-4A34-A212-D277CDE47BE3}|CafeteriaRecomendationEngineClient\\CafeteriaRecomendationEngineClient.csproj|solutionrelative:cafeteriarecomendationengineclient\\dto\\discarditemdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07143FA9-AA65-4A34-A212-D277CDE47BE3}|CafeteriaRecomendationEngineClient\\CafeteriaRecomendationEngineClient.csproj|c:\\users\\mehul.nandwana\\source\\repos\\cafeteriarecomendationengineclient\\cafeteriarecomendationengineclient\\dto\\detailfeedbackdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07143FA9-AA65-4A34-A212-D277CDE47BE3}|CafeteriaRecomendationEngineClient\\CafeteriaRecomendationEngineClient.csproj|solutionrelative:cafeteriarecomendationengineclient\\dto\\detailfeedbackdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07143FA9-AA65-4A34-A212-D277CDE47BE3}|CafeteriaRecomendationEngineClient\\CafeteriaRecomendationEngineClient.csproj|c:\\users\\mehul.nandwana\\source\\repos\\cafeteriarecomendationengineclient\\cafeteriarecomendationengineclient\\dto\\choicedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07143FA9-AA65-4A34-A212-D277CDE47BE3}|CafeteriaRecomendationEngineClient\\CafeteriaRecomendationEngineClient.csproj|solutionrelative:cafeteriarecomendationengineclient\\dto\\choicedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07143FA9-AA65-4A34-A212-D277CDE47BE3}|CafeteriaRecomendationEngineClient\\CafeteriaRecomendationEngineClient.csproj|c:\\users\\mehul.nandwana\\source\\repos\\cafeteriarecomendationengineclient\\cafeteriarecomendationengineclient\\models\\request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07143FA9-AA65-4A34-A212-D277CDE47BE3}|CafeteriaRecomendationEngineClient\\CafeteriaRecomendationEngineClient.csproj|solutionrelative:cafeteriarecomendationengineclient\\models\\request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07143FA9-AA65-4A34-A212-D277CDE47BE3}|CafeteriaRecomendationEngineClient\\CafeteriaRecomendationEngineClient.csproj|c:\\users\\mehul.nandwana\\source\\repos\\cafeteriarecomendationengineclient\\cafeteriarecomendationengineclient\\dto\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07143FA9-AA65-4A34-A212-D277CDE47BE3}|CafeteriaRecomendationEngineClient\\CafeteriaRecomendationEngineClient.csproj|solutionrelative:cafeteriarecomendationengineclient\\dto\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07143FA9-AA65-4A34-A212-D277CDE47BE3}|CafeteriaRecomendationEngineClient\\CafeteriaRecomendationEngineClient.csproj|c:\\users\\mehul.nandwana\\source\\repos\\cafeteriarecomendationengineclient\\cafeteriarecomendationengineclient\\dto\\feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07143FA9-AA65-4A34-A212-D277CDE47BE3}|CafeteriaRecomendationEngineClient\\CafeteriaRecomendationEngineClient.csproj|solutionrelative:cafeteriarecomendationengineclient\\dto\\feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07143FA9-AA65-4A34-A212-D277CDE47BE3}|CafeteriaRecomendationEngineClient\\CafeteriaRecomendationEngineClient.csproj|c:\\users\\mehul.nandwana\\source\\repos\\cafeteriarecomendationengineclient\\cafeteriarecomendationengineclient\\dto\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07143FA9-AA65-4A34-A212-D277CDE47BE3}|CafeteriaRecomendationEngineClient\\CafeteriaRecomendationEngineClient.csproj|solutionrelative:cafeteriarecomendationengineclient\\dto\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07143FA9-AA65-4A34-A212-D277CDE47BE3}|CafeteriaRecomendationEngineClient\\CafeteriaRecomendationEngineClient.csproj|c:\\users\\mehul.nandwana\\source\\repos\\cafeteriarecomendationengineclient\\cafeteriarecomendationengineclient\\dto\\menudata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07143FA9-AA65-4A34-A212-D277CDE47BE3}|CafeteriaRecomendationEngineClient\\CafeteriaRecomendationEngineClient.csproj|solutionrelative:cafeteriarecomendationengineclient\\dto\\menudata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07143FA9-AA65-4A34-A212-D277CDE47BE3}|CafeteriaRecomendationEngineClient\\CafeteriaRecomendationEngineClient.csproj|c:\\users\\mehul.nandwana\\source\\repos\\cafeteriarecomendationengineclient\\cafeteriarecomendationengineclient\\dto\\recommendatiodata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07143FA9-AA65-4A34-A212-D277CDE47BE3}|CafeteriaRecomendationEngineClient\\CafeteriaRecomendationEngineClient.csproj|solutionrelative:cafeteriarecomendationengineclient\\dto\\recommendatiodata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07143FA9-AA65-4A34-A212-D277CDE47BE3}|CafeteriaRecomendationEngineClient\\CafeteriaRecomendationEngineClient.csproj|c:\\users\\mehul.nandwana\\source\\repos\\cafeteriarecomendationengineclient\\cafeteriarecomendationengineclient\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07143FA9-AA65-4A34-A212-D277CDE47BE3}|CafeteriaRecomendationEngineClient\\CafeteriaRecomendationEngineClient.csproj|solutionrelative:cafeteriarecomendationengineclient\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07143FA9-AA65-4A34-A212-D277CDE47BE3}|CafeteriaRecomendationEngineClient\\CafeteriaRecomendationEngineClient.csproj|c:\\users\\mehul.nandwana\\source\\repos\\cafeteriarecomendationengineclient\\cafeteriarecomendationengineclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07143FA9-AA65-4A34-A212-D277CDE47BE3}|CafeteriaRecomendationEngineClient\\CafeteriaRecomendationEngineClient.csproj|solutionrelative:cafeteriarecomendationengineclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 278,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ClientHandler.cs",
+              "DocumentMoniker": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaRecomendationEngineClient\\CafeteriaRecomendationEngineClient\\Client\\ClientHandler.cs",
+              "RelativeDocumentMoniker": "CafeteriaRecomendationEngineClient\\Client\\ClientHandler.cs",
+              "ToolTip": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaRecomendationEngineClient\\CafeteriaRecomendationEngineClient\\Client\\ClientHandler.cs",
+              "RelativeToolTip": "CafeteriaRecomendationEngineClient\\Client\\ClientHandler.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAawDAAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T06:55:11.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Constant.cs",
+              "DocumentMoniker": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaRecomendationEngineClient\\CafeteriaRecomendationEngineClient\\Models\\Constant.cs",
+              "RelativeDocumentMoniker": "CafeteriaRecomendationEngineClient\\Models\\Constant.cs",
+              "ToolTip": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaRecomendationEngineClient\\CafeteriaRecomendationEngineClient\\Models\\Constant.cs",
+              "RelativeToolTip": "CafeteriaRecomendationEngineClient\\Models\\Constant.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T08:57:02.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RequestProcessor.cs",
+              "DocumentMoniker": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaRecomendationEngineClient\\CafeteriaRecomendationEngineClient\\Client\\RequestProcessor.cs",
+              "RelativeDocumentMoniker": "CafeteriaRecomendationEngineClient\\Client\\RequestProcessor.cs",
+              "ToolTip": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaRecomendationEngineClient\\CafeteriaRecomendationEngineClient\\Client\\RequestProcessor.cs",
+              "RelativeToolTip": "CafeteriaRecomendationEngineClient\\Client\\RequestProcessor.cs",
+              "ViewState": "AQIAABkBAAAAAAAAAAAAAI8AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T07:06:32.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FoodItemdata.cs",
+              "DocumentMoniker": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaRecomendationEngineClient\\CafeteriaRecomendationEngineClient\\Models\\FoodItemdata.cs",
+              "RelativeDocumentMoniker": "CafeteriaRecomendationEngineClient\\Models\\FoodItemdata.cs",
+              "ToolTip": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaRecomendationEngineClient\\CafeteriaRecomendationEngineClient\\Models\\FoodItemdata.cs",
+              "RelativeToolTip": "CafeteriaRecomendationEngineClient\\Models\\FoodItemdata.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T11:43:26.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ShowMenuItemData.cs",
+              "DocumentMoniker": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaRecomendationEngineClient\\CafeteriaRecomendationEngineClient\\DTO\\ShowMenuItemData.cs",
+              "RelativeDocumentMoniker": "CafeteriaRecomendationEngineClient\\DTO\\ShowMenuItemData.cs",
+              "ToolTip": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaRecomendationEngineClient\\CafeteriaRecomendationEngineClient\\DTO\\ShowMenuItemData.cs",
+              "RelativeToolTip": "CafeteriaRecomendationEngineClient\\DTO\\ShowMenuItemData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T16:28:23.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "JSonSerializer.cs",
+              "DocumentMoniker": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaRecomendationEngineClient\\CafeteriaRecomendationEngineClient\\Client\\JSonSerializer.cs",
+              "RelativeDocumentMoniker": "CafeteriaRecomendationEngineClient\\Client\\JSonSerializer.cs",
+              "ToolTip": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaRecomendationEngineClient\\CafeteriaRecomendationEngineClient\\Client\\JSonSerializer.cs",
+              "RelativeToolTip": "CafeteriaRecomendationEngineClient\\Client\\JSonSerializer.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAUAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T14:42:47.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserInput.cs",
+              "DocumentMoniker": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaRecomendationEngineClient\\CafeteriaRecomendationEngineClient\\Client\\UserInput.cs",
+              "RelativeDocumentMoniker": "CafeteriaRecomendationEngineClient\\Client\\UserInput.cs",
+              "ToolTip": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaRecomendationEngineClient\\CafeteriaRecomendationEngineClient\\Client\\UserInput.cs",
+              "RelativeToolTip": "CafeteriaRecomendationEngineClient\\Client\\UserInput.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIYAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T08:33:22.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConsoleOutput.cs",
+              "DocumentMoniker": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaRecomendationEngineClient\\CafeteriaRecomendationEngineClient\\Client\\ConsoleOutput.cs",
+              "RelativeDocumentMoniker": "CafeteriaRecomendationEngineClient\\Client\\ConsoleOutput.cs",
+              "ToolTip": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaRecomendationEngineClient\\CafeteriaRecomendationEngineClient\\Client\\ConsoleOutput.cs",
+              "RelativeToolTip": "CafeteriaRecomendationEngineClient\\Client\\ConsoleOutput.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAYwF0AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T09:01:52.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserProfile.cs",
+              "DocumentMoniker": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaRecomendationEngineClient\\CafeteriaRecomendationEngineClient\\DTO\\UserProfile.cs",
+              "RelativeDocumentMoniker": "CafeteriaRecomendationEngineClient\\DTO\\UserProfile.cs",
+              "ToolTip": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaRecomendationEngineClient\\CafeteriaRecomendationEngineClient\\DTO\\UserProfile.cs",
+              "RelativeToolTip": "CafeteriaRecomendationEngineClient\\DTO\\UserProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T10:47:36.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FeedBackData.cs",
+              "DocumentMoniker": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaRecomendationEngineClient\\CafeteriaRecomendationEngineClient\\DTO\\FeedBackData.cs",
+              "RelativeDocumentMoniker": "CafeteriaRecomendationEngineClient\\DTO\\FeedBackData.cs",
+              "ToolTip": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaRecomendationEngineClient\\CafeteriaRecomendationEngineClient\\DTO\\FeedBackData.cs",
+              "RelativeToolTip": "CafeteriaRecomendationEngineClient\\DTO\\FeedBackData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T10:07:51.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CustomProtocolParameters.cs",
+              "DocumentMoniker": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaRecomendationEngineClient\\CafeteriaRecomendationEngineClient\\Models\\CustomProtocolParameters.cs",
+              "RelativeDocumentMoniker": "CafeteriaRecomendationEngineClient\\Models\\CustomProtocolParameters.cs",
+              "ToolTip": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaRecomendationEngineClient\\CafeteriaRecomendationEngineClient\\Models\\CustomProtocolParameters.cs",
+              "RelativeToolTip": "CafeteriaRecomendationEngineClient\\Models\\CustomProtocolParameters.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T09:54:46.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DiscardItemData.cs",
+              "DocumentMoniker": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaRecomendationEngineClient\\CafeteriaRecomendationEngineClient\\DTO\\DiscardItemData.cs",
+              "RelativeDocumentMoniker": "CafeteriaRecomendationEngineClient\\DTO\\DiscardItemData.cs",
+              "ToolTip": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaRecomendationEngineClient\\CafeteriaRecomendationEngineClient\\DTO\\DiscardItemData.cs",
+              "RelativeToolTip": "CafeteriaRecomendationEngineClient\\DTO\\DiscardItemData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T18:37:59.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DetailFeedbackData.cs",
+              "DocumentMoniker": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaRecomendationEngineClient\\CafeteriaRecomendationEngineClient\\DTO\\DetailFeedbackData.cs",
+              "RelativeDocumentMoniker": "CafeteriaRecomendationEngineClient\\DTO\\DetailFeedbackData.cs",
+              "ToolTip": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaRecomendationEngineClient\\CafeteriaRecomendationEngineClient\\DTO\\DetailFeedbackData.cs",
+              "RelativeToolTip": "CafeteriaRecomendationEngineClient\\DTO\\DetailFeedbackData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T18:35:01.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ChoiceData.cs",
+              "DocumentMoniker": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaRecomendationEngineClient\\CafeteriaRecomendationEngineClient\\DTO\\ChoiceData.cs",
+              "RelativeDocumentMoniker": "CafeteriaRecomendationEngineClient\\DTO\\ChoiceData.cs",
+              "ToolTip": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaRecomendationEngineClient\\CafeteriaRecomendationEngineClient\\DTO\\ChoiceData.cs",
+              "RelativeToolTip": "CafeteriaRecomendationEngineClient\\DTO\\ChoiceData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T11:43:11.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Request.cs",
+              "DocumentMoniker": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaRecomendationEngineClient\\CafeteriaRecomendationEngineClient\\Models\\Request.cs",
+              "RelativeDocumentMoniker": "CafeteriaRecomendationEngineClient\\Models\\Request.cs",
+              "ToolTip": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaRecomendationEngineClient\\CafeteriaRecomendationEngineClient\\Models\\Request.cs",
+              "RelativeToolTip": "CafeteriaRecomendationEngineClient\\Models\\Request.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T15:06:23.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Feedback.cs",
+              "DocumentMoniker": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaRecomendationEngineClient\\CafeteriaRecomendationEngineClient\\DTO\\Feedback.cs",
+              "RelativeDocumentMoniker": "CafeteriaRecomendationEngineClient\\DTO\\Feedback.cs",
+              "ToolTip": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaRecomendationEngineClient\\CafeteriaRecomendationEngineClient\\DTO\\Feedback.cs",
+              "RelativeToolTip": "CafeteriaRecomendationEngineClient\\DTO\\Feedback.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T07:06:55.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Food.cs",
+              "DocumentMoniker": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaRecomendationEngineClient\\CafeteriaRecomendationEngineClient\\DTO\\Food.cs",
+              "RelativeDocumentMoniker": "CafeteriaRecomendationEngineClient\\DTO\\Food.cs",
+              "ToolTip": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaRecomendationEngineClient\\CafeteriaRecomendationEngineClient\\DTO\\Food.cs",
+              "RelativeToolTip": "CafeteriaRecomendationEngineClient\\DTO\\Food.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAwA4AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T11:43:26.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaRecomendationEngineClient\\CafeteriaRecomendationEngineClient\\DTO\\Menu.cs",
+              "RelativeDocumentMoniker": "CafeteriaRecomendationEngineClient\\DTO\\Menu.cs",
+              "ToolTip": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaRecomendationEngineClient\\CafeteriaRecomendationEngineClient\\DTO\\Menu.cs",
+              "RelativeToolTip": "CafeteriaRecomendationEngineClient\\DTO\\Menu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T11:43:30.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MenuData.cs",
+              "DocumentMoniker": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaRecomendationEngineClient\\CafeteriaRecomendationEngineClient\\DTO\\MenuData.cs",
+              "RelativeDocumentMoniker": "CafeteriaRecomendationEngineClient\\DTO\\MenuData.cs",
+              "ToolTip": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaRecomendationEngineClient\\CafeteriaRecomendationEngineClient\\DTO\\MenuData.cs",
+              "RelativeToolTip": "CafeteriaRecomendationEngineClient\\DTO\\MenuData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T11:43:31.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "RecommendatioData.cs",
+              "DocumentMoniker": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaRecomendationEngineClient\\CafeteriaRecomendationEngineClient\\DTO\\RecommendatioData.cs",
+              "RelativeDocumentMoniker": "CafeteriaRecomendationEngineClient\\DTO\\RecommendatioData.cs",
+              "ToolTip": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaRecomendationEngineClient\\CafeteriaRecomendationEngineClient\\DTO\\RecommendatioData.cs",
+              "RelativeToolTip": "CafeteriaRecomendationEngineClient\\DTO\\RecommendatioData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T11:43:33.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UserModel.cs",
+              "DocumentMoniker": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaRecomendationEngineClient\\CafeteriaRecomendationEngineClient\\Models\\UserModel.cs",
+              "RelativeDocumentMoniker": "CafeteriaRecomendationEngineClient\\Models\\UserModel.cs",
+              "ToolTip": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaRecomendationEngineClient\\CafeteriaRecomendationEngineClient\\Models\\UserModel.cs",
+              "RelativeToolTip": "CafeteriaRecomendationEngineClient\\Models\\UserModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T11:43:36.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaRecomendationEngineClient\\CafeteriaRecomendationEngineClient\\Program.cs",
+              "RelativeDocumentMoniker": "CafeteriaRecomendationEngineClient\\Program.cs",
+              "ToolTip": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaRecomendationEngineClient\\CafeteriaRecomendationEngineClient\\Program.cs",
+              "RelativeToolTip": "CafeteriaRecomendationEngineClient\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T11:43:41.693Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 9,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

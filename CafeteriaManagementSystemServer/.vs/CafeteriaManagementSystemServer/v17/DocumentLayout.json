@@ -1,0 +1,1368 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaManagementSystemServer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{043BFB39-FF36-4B99-B119-B8594C38BCB5}|CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer.csproj|c:\\users\\mehul.nandwana\\source\\repos\\cafeteriamanagementsystemserver\\cafeteriamanagementsystemserver\\services\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{043BFB39-FF36-4B99-B119-B8594C38BCB5}|CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer.csproj|solutionrelative:cafeteriamanagementsystemserver\\services\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{043BFB39-FF36-4B99-B119-B8594C38BCB5}|CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer.csproj|c:\\users\\mehul.nandwana\\source\\repos\\cafeteriamanagementsystemserver\\cafeteriamanagementsystemserver\\services\\feedbackservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{043BFB39-FF36-4B99-B119-B8594C38BCB5}|CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer.csproj|solutionrelative:cafeteriamanagementsystemserver\\services\\feedbackservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B93B8666-3511-4556-BF0E-933D4AB31CAB}|CafeteriaManagementSystemServerTests\\CafeteriaManagementSystemServerTests.csproj|c:\\users\\mehul.nandwana\\source\\repos\\cafeteriamanagementsystemserver\\cafeteriamanagementsystemservertests\\authenticationservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B93B8666-3511-4556-BF0E-933D4AB31CAB}|CafeteriaManagementSystemServerTests\\CafeteriaManagementSystemServerTests.csproj|solutionrelative:cafeteriamanagementsystemservertests\\authenticationservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B93B8666-3511-4556-BF0E-933D4AB31CAB}|CafeteriaManagementSystemServerTests\\CafeteriaManagementSystemServerTests.csproj|c:\\users\\mehul.nandwana\\source\\repos\\cafeteriamanagementsystemserver\\cafeteriamanagementsystemservertests\\testcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B93B8666-3511-4556-BF0E-933D4AB31CAB}|CafeteriaManagementSystemServerTests\\CafeteriaManagementSystemServerTests.csproj|solutionrelative:cafeteriamanagementsystemservertests\\testcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B93B8666-3511-4556-BF0E-933D4AB31CAB}|CafeteriaManagementSystemServerTests\\CafeteriaManagementSystemServerTests.csproj|c:\\users\\mehul.nandwana\\source\\repos\\cafeteriamanagementsystemserver\\cafeteriamanagementsystemservertests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B93B8666-3511-4556-BF0E-933D4AB31CAB}|CafeteriaManagementSystemServerTests\\CafeteriaManagementSystemServerTests.csproj|solutionrelative:cafeteriamanagementsystemservertests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{043BFB39-FF36-4B99-B119-B8594C38BCB5}|CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer.csproj|c:\\users\\mehul.nandwana\\source\\repos\\cafeteriamanagementsystemserver\\cafeteriamanagementsystemserver\\services\\foodservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{043BFB39-FF36-4B99-B119-B8594C38BCB5}|CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer.csproj|solutionrelative:cafeteriamanagementsystemserver\\services\\foodservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{043BFB39-FF36-4B99-B119-B8594C38BCB5}|CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer.csproj|c:\\users\\mehul.nandwana\\source\\repos\\cafeteriamanagementsystemserver\\cafeteriamanagementsystemserver\\repository\\foodrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{043BFB39-FF36-4B99-B119-B8594C38BCB5}|CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer.csproj|solutionrelative:cafeteriamanagementsystemserver\\repository\\foodrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{043BFB39-FF36-4B99-B119-B8594C38BCB5}|CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer.csproj|c:\\users\\mehul.nandwana\\source\\repos\\cafeteriamanagementsystemserver\\cafeteriamanagementsystemserver\\controller\\foodcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{043BFB39-FF36-4B99-B119-B8594C38BCB5}|CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer.csproj|solutionrelative:cafeteriamanagementsystemserver\\controller\\foodcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{043BFB39-FF36-4B99-B119-B8594C38BCB5}|CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer.csproj|c:\\users\\mehul.nandwana\\source\\repos\\cafeteriamanagementsystemserver\\cafeteriamanagementsystemserver\\controller\\factorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{043BFB39-FF36-4B99-B119-B8594C38BCB5}|CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer.csproj|solutionrelative:cafeteriamanagementsystemserver\\controller\\factorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{043BFB39-FF36-4B99-B119-B8594C38BCB5}|CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer.csproj|c:\\users\\mehul.nandwana\\source\\repos\\cafeteriamanagementsystemserver\\cafeteriamanagementsystemserver\\dtos\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{043BFB39-FF36-4B99-B119-B8594C38BCB5}|CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer.csproj|solutionrelative:cafeteriamanagementsystemserver\\dtos\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{043BFB39-FF36-4B99-B119-B8594C38BCB5}|CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer.csproj|c:\\users\\mehul.nandwana\\source\\repos\\cafeteriamanagementsystemserver\\cafeteriamanagementsystemserver\\models\\constant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{043BFB39-FF36-4B99-B119-B8594C38BCB5}|CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer.csproj|solutionrelative:cafeteriamanagementsystemserver\\models\\constant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{043BFB39-FF36-4B99-B119-B8594C38BCB5}|CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer.csproj|c:\\users\\mehul.nandwana\\source\\repos\\cafeteriamanagementsystemserver\\cafeteriamanagementsystemserver\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{043BFB39-FF36-4B99-B119-B8594C38BCB5}|CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer.csproj|solutionrelative:cafeteriamanagementsystemserver\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{043BFB39-FF36-4B99-B119-B8594C38BCB5}|CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer.csproj|c:\\users\\mehul.nandwana\\source\\repos\\cafeteriamanagementsystemserver\\cafeteriamanagementsystemserver\\controller\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{043BFB39-FF36-4B99-B119-B8594C38BCB5}|CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer.csproj|solutionrelative:cafeteriamanagementsystemserver\\controller\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{043BFB39-FF36-4B99-B119-B8594C38BCB5}|CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer.csproj|c:\\users\\mehul.nandwana\\source\\repos\\cafeteriamanagementsystemserver\\cafeteriamanagementsystemserver\\controller\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{043BFB39-FF36-4B99-B119-B8594C38BCB5}|CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer.csproj|solutionrelative:cafeteriamanagementsystemserver\\controller\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{043BFB39-FF36-4B99-B119-B8594C38BCB5}|CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer.csproj|c:\\users\\mehul.nandwana\\source\\repos\\cafeteriamanagementsystemserver\\cafeteriamanagementsystemserver\\servicehelper\\serverhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{043BFB39-FF36-4B99-B119-B8594C38BCB5}|CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer.csproj|solutionrelative:cafeteriamanagementsystemserver\\servicehelper\\serverhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{043BFB39-FF36-4B99-B119-B8594C38BCB5}|CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer.csproj|c:\\users\\mehul.nandwana\\source\\repos\\cafeteriamanagementsystemserver\\cafeteriamanagementsystemserver\\servicehelper\\recommendationengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{043BFB39-FF36-4B99-B119-B8594C38BCB5}|CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer.csproj|solutionrelative:cafeteriamanagementsystemserver\\servicehelper\\recommendationengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{043BFB39-FF36-4B99-B119-B8594C38BCB5}|CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer.csproj|c:\\users\\mehul.nandwana\\source\\repos\\cafeteriamanagementsystemserver\\cafeteriamanagementsystemserver\\models\\jsonserializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{043BFB39-FF36-4B99-B119-B8594C38BCB5}|CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer.csproj|solutionrelative:cafeteriamanagementsystemserver\\models\\jsonserializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{043BFB39-FF36-4B99-B119-B8594C38BCB5}|CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer.csproj|c:\\users\\mehul.nandwana\\source\\repos\\cafeteriamanagementsystemserver\\cafeteriamanagementsystemserver\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{043BFB39-FF36-4B99-B119-B8594C38BCB5}|CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer.csproj|solutionrelative:cafeteriamanagementsystemserver\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{043BFB39-FF36-4B99-B119-B8594C38BCB5}|CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer.csproj|c:\\users\\mehul.nandwana\\source\\repos\\cafeteriamanagementsystemserver\\cafeteriamanagementsystemserver\\controller\\feedbackcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{043BFB39-FF36-4B99-B119-B8594C38BCB5}|CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer.csproj|solutionrelative:cafeteriamanagementsystemserver\\controller\\feedbackcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{043BFB39-FF36-4B99-B119-B8594C38BCB5}|CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer.csproj|c:\\users\\mehul.nandwana\\source\\repos\\cafeteriamanagementsystemserver\\cafeteriamanagementsystemserver\\controller\\recommendationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{043BFB39-FF36-4B99-B119-B8594C38BCB5}|CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer.csproj|solutionrelative:cafeteriamanagementsystemserver\\controller\\recommendationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{043BFB39-FF36-4B99-B119-B8594C38BCB5}|CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer.csproj|c:\\users\\mehul.nandwana\\source\\repos\\cafeteriamanagementsystemserver\\cafeteriamanagementsystemserver\\controller\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{043BFB39-FF36-4B99-B119-B8594C38BCB5}|CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer.csproj|solutionrelative:cafeteriamanagementsystemserver\\controller\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{043BFB39-FF36-4B99-B119-B8594C38BCB5}|CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer.csproj|c:\\users\\mehul.nandwana\\source\\repos\\cafeteriamanagementsystemserver\\cafeteriamanagementsystemserver\\repository\\menurepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{043BFB39-FF36-4B99-B119-B8594C38BCB5}|CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer.csproj|solutionrelative:cafeteriamanagementsystemserver\\repository\\menurepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{043BFB39-FF36-4B99-B119-B8594C38BCB5}|CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer.csproj|c:\\users\\mehul.nandwana\\source\\repos\\cafeteriamanagementsystemserver\\cafeteriamanagementsystemserver\\repository\\feedbackrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{043BFB39-FF36-4B99-B119-B8594C38BCB5}|CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer.csproj|solutionrelative:cafeteriamanagementsystemserver\\repository\\feedbackrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{043BFB39-FF36-4B99-B119-B8594C38BCB5}|CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer.csproj|c:\\users\\mehul.nandwana\\source\\repos\\cafeteriamanagementsystemserver\\cafeteriamanagementsystemserver\\exceptionhandler\\exceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{043BFB39-FF36-4B99-B119-B8594C38BCB5}|CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer.csproj|solutionrelative:cafeteriamanagementsystemserver\\exceptionhandler\\exceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{043BFB39-FF36-4B99-B119-B8594C38BCB5}|CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer.csproj|c:\\users\\mehul.nandwana\\source\\repos\\cafeteriamanagementsystemserver\\cafeteriamanagementsystemserver\\controller\\notificationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{043BFB39-FF36-4B99-B119-B8594C38BCB5}|CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer.csproj|solutionrelative:cafeteriamanagementsystemserver\\controller\\notificationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{043BFB39-FF36-4B99-B119-B8594C38BCB5}|CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer.csproj|c:\\users\\mehul.nandwana\\source\\repos\\cafeteriamanagementsystemserver\\cafeteriamanagementsystemserver\\interfaces\\icommoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{043BFB39-FF36-4B99-B119-B8594C38BCB5}|CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer.csproj|solutionrelative:cafeteriamanagementsystemserver\\interfaces\\icommoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{043BFB39-FF36-4B99-B119-B8594C38BCB5}|CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer.csproj|c:\\users\\mehul.nandwana\\source\\repos\\cafeteriamanagementsystemserver\\cafeteriamanagementsystemserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{043BFB39-FF36-4B99-B119-B8594C38BCB5}|CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer.csproj|solutionrelative:cafeteriamanagementsystemserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{043BFB39-FF36-4B99-B119-B8594C38BCB5}|CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer.csproj|c:\\users\\mehul.nandwana\\.nuget\\packages\\nlog.config\\4.7.15\\contentfiles\\any\\any\\nlog.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{043BFB39-FF36-4B99-B119-B8594C38BCB5}|CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer.csproj|c:\\users\\mehul.nandwana\\source\\repos\\cafeteriamanagementsystemserver\\cafeteriamanagementsystemserver\\dtos\\feedbackdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{043BFB39-FF36-4B99-B119-B8594C38BCB5}|CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer.csproj|solutionrelative:cafeteriamanagementsystemserver\\dtos\\feedbackdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{043BFB39-FF36-4B99-B119-B8594C38BCB5}|CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer.csproj|c:\\users\\mehul.nandwana\\source\\repos\\cafeteriamanagementsystemserver\\cafeteriamanagementsystemserver\\services\\menuservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{043BFB39-FF36-4B99-B119-B8594C38BCB5}|CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer.csproj|solutionrelative:cafeteriamanagementsystemserver\\services\\menuservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{043BFB39-FF36-4B99-B119-B8594C38BCB5}|CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer.csproj|c:\\users\\mehul.nandwana\\source\\repos\\cafeteriamanagementsystemserver\\cafeteriamanagementsystemserver\\dtos\\fooditemdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{043BFB39-FF36-4B99-B119-B8594C38BCB5}|CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer.csproj|solutionrelative:cafeteriamanagementsystemserver\\dtos\\fooditemdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{043BFB39-FF36-4B99-B119-B8594C38BCB5}|CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer.csproj|c:\\users\\mehul.nandwana\\source\\repos\\cafeteriamanagementsystemserver\\cafeteriamanagementsystemserver\\dtos\\showmenuitemdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{043BFB39-FF36-4B99-B119-B8594C38BCB5}|CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer.csproj|solutionrelative:cafeteriamanagementsystemserver\\dtos\\showmenuitemdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{043BFB39-FF36-4B99-B119-B8594C38BCB5}|CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer.csproj|c:\\users\\mehul.nandwana\\source\\repos\\cafeteriamanagementsystemserver\\cafeteriamanagementsystemserver\\dtos\\notificationdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{043BFB39-FF36-4B99-B119-B8594C38BCB5}|CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer.csproj|solutionrelative:cafeteriamanagementsystemserver\\dtos\\notificationdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{043BFB39-FF36-4B99-B119-B8594C38BCB5}|CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer.csproj|c:\\users\\mehul.nandwana\\source\\repos\\cafeteriamanagementsystemserver\\cafeteriamanagementsystemserver\\services\\notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{043BFB39-FF36-4B99-B119-B8594C38BCB5}|CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer.csproj|solutionrelative:cafeteriamanagementsystemserver\\services\\notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{043BFB39-FF36-4B99-B119-B8594C38BCB5}|CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer.csproj|c:\\users\\mehul.nandwana\\source\\repos\\cafeteriamanagementsystemserver\\cafeteriamanagementsystemserver\\dtos\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{043BFB39-FF36-4B99-B119-B8594C38BCB5}|CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer.csproj|solutionrelative:cafeteriamanagementsystemserver\\dtos\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{043BFB39-FF36-4B99-B119-B8594C38BCB5}|CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer.csproj|c:\\users\\mehul.nandwana\\source\\repos\\cafeteriamanagementsystemserver\\cafeteriamanagementsystemserver\\models\\fooditem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{043BFB39-FF36-4B99-B119-B8594C38BCB5}|CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer.csproj|solutionrelative:cafeteriamanagementsystemserver\\models\\fooditem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{043BFB39-FF36-4B99-B119-B8594C38BCB5}|CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer.csproj|c:\\users\\mehul.nandwana\\source\\repos\\cafeteriamanagementsystemserver\\cafeteriamanagementsystemserver\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{043BFB39-FF36-4B99-B119-B8594C38BCB5}|CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer.csproj|solutionrelative:cafeteriamanagementsystemserver\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{043BFB39-FF36-4B99-B119-B8594C38BCB5}|CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer.csproj|c:\\users\\mehul.nandwana\\source\\repos\\cafeteriamanagementsystemserver\\cafeteriamanagementsystemserver\\repository\\recommendationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{043BFB39-FF36-4B99-B119-B8594C38BCB5}|CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer.csproj|solutionrelative:cafeteriamanagementsystemserver\\repository\\recommendationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{043BFB39-FF36-4B99-B119-B8594C38BCB5}|CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer.csproj|c:\\users\\mehul.nandwana\\source\\repos\\cafeteriamanagementsystemserver\\cafeteriamanagementsystemserver\\repository\\notificationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{043BFB39-FF36-4B99-B119-B8594C38BCB5}|CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer.csproj|solutionrelative:cafeteriamanagementsystemserver\\repository\\notificationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{043BFB39-FF36-4B99-B119-B8594C38BCB5}|CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer.csproj|c:\\users\\mehul.nandwana\\source\\repos\\cafeteriamanagementsystemserver\\cafeteriamanagementsystemserver\\models\\cafeteriamangagementsystemcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{043BFB39-FF36-4B99-B119-B8594C38BCB5}|CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer.csproj|solutionrelative:cafeteriamanagementsystemserver\\models\\cafeteriamangagementsystemcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{043BFB39-FF36-4B99-B119-B8594C38BCB5}|CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer.csproj|c:\\users\\mehul.nandwana\\source\\repos\\cafeteriamanagementsystemserver\\cafeteriamanagementsystemserver\\services\\recommendationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{043BFB39-FF36-4B99-B119-B8594C38BCB5}|CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer.csproj|solutionrelative:cafeteriamanagementsystemserver\\services\\recommendationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{043BFB39-FF36-4B99-B119-B8594C38BCB5}|CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer.csproj|c:\\users\\mehul.nandwana\\source\\repos\\cafeteriamanagementsystemserver\\cafeteriamanagementsystemserver\\interfaces\\irecommendationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{043BFB39-FF36-4B99-B119-B8594C38BCB5}|CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer.csproj|solutionrelative:cafeteriamanagementsystemserver\\interfaces\\irecommendationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{043BFB39-FF36-4B99-B119-B8594C38BCB5}|CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer.csproj|c:\\users\\mehul.nandwana\\source\\repos\\cafeteriamanagementsystemserver\\cafeteriamanagementsystemserver\\interfaces\\inotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{043BFB39-FF36-4B99-B119-B8594C38BCB5}|CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer.csproj|solutionrelative:cafeteriamanagementsystemserver\\interfaces\\inotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{043BFB39-FF36-4B99-B119-B8594C38BCB5}|CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer.csproj|c:\\users\\mehul.nandwana\\source\\repos\\cafeteriamanagementsystemserver\\cafeteriamanagementsystemserver\\models\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{043BFB39-FF36-4B99-B119-B8594C38BCB5}|CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer.csproj|solutionrelative:cafeteriamanagementsystemserver\\models\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{043BFB39-FF36-4B99-B119-B8594C38BCB5}|CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer.csproj|c:\\users\\mehul.nandwana\\source\\repos\\cafeteriamanagementsystemserver\\cafeteriamanagementsystemserver\\exceptionhandler\\foodnotfound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{043BFB39-FF36-4B99-B119-B8594C38BCB5}|CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer.csproj|solutionrelative:cafeteriamanagementsystemserver\\exceptionhandler\\foodnotfound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{043BFB39-FF36-4B99-B119-B8594C38BCB5}|CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer.csproj|c:\\users\\mehul.nandwana\\source\\repos\\cafeteriamanagementsystemserver\\cafeteriamanagementsystemserver\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{043BFB39-FF36-4B99-B119-B8594C38BCB5}|CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer.csproj|solutionrelative:cafeteriamanagementsystemserver\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{043BFB39-FF36-4B99-B119-B8594C38BCB5}|CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer.csproj|c:\\users\\mehul.nandwana\\source\\repos\\cafeteriamanagementsystemserver\\cafeteriamanagementsystemserver\\exceptionhandler\\controllernotfound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{043BFB39-FF36-4B99-B119-B8594C38BCB5}|CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer.csproj|solutionrelative:cafeteriamanagementsystemserver\\exceptionhandler\\controllernotfound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{043BFB39-FF36-4B99-B119-B8594C38BCB5}|CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer.csproj|c:\\users\\mehul.nandwana\\source\\repos\\cafeteriamanagementsystemserver\\cafeteriamanagementsystemserver\\dtos\\discarditemdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{043BFB39-FF36-4B99-B119-B8594C38BCB5}|CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer.csproj|solutionrelative:cafeteriamanagementsystemserver\\dtos\\discarditemdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{043BFB39-FF36-4B99-B119-B8594C38BCB5}|CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer.csproj|c:\\users\\mehul.nandwana\\source\\repos\\cafeteriamanagementsystemserver\\cafeteriamanagementsystemserver\\models\\customprotocolparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{043BFB39-FF36-4B99-B119-B8594C38BCB5}|CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer.csproj|solutionrelative:cafeteriamanagementsystemserver\\models\\customprotocolparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{043BFB39-FF36-4B99-B119-B8594C38BCB5}|CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer.csproj|c:\\users\\mehul.nandwana\\source\\repos\\cafeteriamanagementsystemserver\\cafeteriamanagementsystemserver\\models\\detailfeedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{043BFB39-FF36-4B99-B119-B8594C38BCB5}|CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer.csproj|solutionrelative:cafeteriamanagementsystemserver\\models\\detailfeedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{043BFB39-FF36-4B99-B119-B8594C38BCB5}|CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer.csproj|c:\\users\\mehul.nandwana\\source\\repos\\cafeteriamanagementsystemserver\\cafeteriamanagementsystemserver\\models\\discarditem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{043BFB39-FF36-4B99-B119-B8594C38BCB5}|CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer.csproj|solutionrelative:cafeteriamanagementsystemserver\\models\\discarditem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{043BFB39-FF36-4B99-B119-B8594C38BCB5}|CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer.csproj|c:\\users\\mehul.nandwana\\source\\repos\\cafeteriamanagementsystemserver\\cafeteriamanagementsystemserver\\models\\feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{043BFB39-FF36-4B99-B119-B8594C38BCB5}|CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer.csproj|solutionrelative:cafeteriamanagementsystemserver\\models\\feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{043BFB39-FF36-4B99-B119-B8594C38BCB5}|CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer.csproj|c:\\users\\mehul.nandwana\\source\\repos\\cafeteriamanagementsystemserver\\cafeteriamanagementsystemserver\\models\\mealtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{043BFB39-FF36-4B99-B119-B8594C38BCB5}|CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer.csproj|solutionrelative:cafeteriamanagementsystemserver\\models\\mealtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{043BFB39-FF36-4B99-B119-B8594C38BCB5}|CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer.csproj|c:\\users\\mehul.nandwana\\source\\repos\\cafeteriamanagementsystemserver\\cafeteriamanagementsystemserver\\models\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{043BFB39-FF36-4B99-B119-B8594C38BCB5}|CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer.csproj|solutionrelative:cafeteriamanagementsystemserver\\models\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{043BFB39-FF36-4B99-B119-B8594C38BCB5}|CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer.csproj|c:\\users\\mehul.nandwana\\source\\repos\\cafeteriamanagementsystemserver\\cafeteriamanagementsystemserver\\exceptionhandler\\itemalreadyexists.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{043BFB39-FF36-4B99-B119-B8594C38BCB5}|CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer.csproj|solutionrelative:cafeteriamanagementsystemserver\\exceptionhandler\\itemalreadyexists.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{043BFB39-FF36-4B99-B119-B8594C38BCB5}|CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer.csproj|c:\\users\\mehul.nandwana\\source\\repos\\cafeteriamanagementsystemserver\\cafeteriamanagementsystemserver\\dtos\\detailfeedbackdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{043BFB39-FF36-4B99-B119-B8594C38BCB5}|CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer.csproj|solutionrelative:cafeteriamanagementsystemserver\\dtos\\detailfeedbackdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{043BFB39-FF36-4B99-B119-B8594C38BCB5}|CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer.csproj|c:\\users\\mehul.nandwana\\source\\repos\\cafeteriamanagementsystemserver\\cafeteriamanagementsystemserver\\dtos\\choicedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{043BFB39-FF36-4B99-B119-B8594C38BCB5}|CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer.csproj|solutionrelative:cafeteriamanagementsystemserver\\dtos\\choicedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{043BFB39-FF36-4B99-B119-B8594C38BCB5}|CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer.csproj|c:\\users\\mehul.nandwana\\source\\repos\\cafeteriamanagementsystemserver\\cafeteriamanagementsystemserver\\models\\userpreference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{043BFB39-FF36-4B99-B119-B8594C38BCB5}|CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer.csproj|solutionrelative:cafeteriamanagementsystemserver\\models\\userpreference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{043BFB39-FF36-4B99-B119-B8594C38BCB5}|CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer.csproj|c:\\users\\mehul.nandwana\\source\\repos\\cafeteriamanagementsystemserver\\cafeteriamanagementsystemserver\\interfaces\\imenuservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{043BFB39-FF36-4B99-B119-B8594C38BCB5}|CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer.csproj|solutionrelative:cafeteriamanagementsystemserver\\interfaces\\imenuservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{043BFB39-FF36-4B99-B119-B8594C38BCB5}|CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer.csproj|c:\\users\\mehul.nandwana\\source\\repos\\cafeteriamanagementsystemserver\\cafeteriamanagementsystemserver\\interfaces\\imenurepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{043BFB39-FF36-4B99-B119-B8594C38BCB5}|CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer.csproj|solutionrelative:cafeteriamanagementsystemserver\\interfaces\\imenurepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{043BFB39-FF36-4B99-B119-B8594C38BCB5}|CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer.csproj|c:\\users\\mehul.nandwana\\source\\repos\\cafeteriamanagementsystemserver\\cafeteriamanagementsystemserver\\interfaces\\ifeedbackrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{043BFB39-FF36-4B99-B119-B8594C38BCB5}|CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer.csproj|solutionrelative:cafeteriamanagementsystemserver\\interfaces\\ifeedbackrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{043BFB39-FF36-4B99-B119-B8594C38BCB5}|CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer.csproj|c:\\users\\mehul.nandwana\\source\\repos\\cafeteriamanagementsystemserver\\cafeteriamanagementsystemserver\\dtos\\menudata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{043BFB39-FF36-4B99-B119-B8594C38BCB5}|CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer.csproj|solutionrelative:cafeteriamanagementsystemserver\\dtos\\menudata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{043BFB39-FF36-4B99-B119-B8594C38BCB5}|CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer.csproj|c:\\users\\mehul.nandwana\\source\\repos\\cafeteriamanagementsystemserver\\cafeteriamanagementsystemserver\\models\\choice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{043BFB39-FF36-4B99-B119-B8594C38BCB5}|CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer.csproj|solutionrelative:cafeteriamanagementsystemserver\\models\\choice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{043BFB39-FF36-4B99-B119-B8594C38BCB5}|CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer.csproj|c:\\users\\mehul.nandwana\\source\\repos\\cafeteriamanagementsystemserver\\cafeteriamanagementsystemserver\\exceptionhandler\\usernotfound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{043BFB39-FF36-4B99-B119-B8594C38BCB5}|CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer.csproj|solutionrelative:cafeteriamanagementsystemserver\\exceptionhandler\\usernotfound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{043BFB39-FF36-4B99-B119-B8594C38BCB5}|CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer.csproj|c:\\users\\mehul.nandwana\\source\\repos\\cafeteriamanagementsystemserver\\cafeteriamanagementsystemserver\\exceptionhandler\\nomenuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{043BFB39-FF36-4B99-B119-B8594C38BCB5}|CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer.csproj|solutionrelative:cafeteriamanagementsystemserver\\exceptionhandler\\nomenuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{043BFB39-FF36-4B99-B119-B8594C38BCB5}|CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer.csproj|c:\\users\\mehul.nandwana\\source\\repos\\cafeteriamanagementsystemserver\\cafeteriamanagementsystemserver\\models\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{043BFB39-FF36-4B99-B119-B8594C38BCB5}|CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer.csproj|solutionrelative:cafeteriamanagementsystemserver\\models\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{043BFB39-FF36-4B99-B119-B8594C38BCB5}|CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer.csproj|c:\\users\\mehul.nandwana\\source\\repos\\cafeteriamanagementsystemserver\\cafeteriamanagementsystemserver\\interfaces\\irecommendationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{043BFB39-FF36-4B99-B119-B8594C38BCB5}|CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer.csproj|solutionrelative:cafeteriamanagementsystemserver\\interfaces\\irecommendationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{043BFB39-FF36-4B99-B119-B8594C38BCB5}|CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer.csproj|c:\\users\\mehul.nandwana\\source\\repos\\cafeteriamanagementsystemserver\\cafeteriamanagementsystemserver\\interfaces\\ifoodservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{043BFB39-FF36-4B99-B119-B8594C38BCB5}|CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer.csproj|solutionrelative:cafeteriamanagementsystemserver\\interfaces\\ifoodservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{043BFB39-FF36-4B99-B119-B8594C38BCB5}|CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer.csproj|c:\\users\\mehul.nandwana\\source\\repos\\cafeteriamanagementsystemserver\\cafeteriamanagementsystemserver\\interfaces\\ifeedbackservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{043BFB39-FF36-4B99-B119-B8594C38BCB5}|CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer.csproj|solutionrelative:cafeteriamanagementsystemserver\\interfaces\\ifeedbackservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{043BFB39-FF36-4B99-B119-B8594C38BCB5}|CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer.csproj|c:\\users\\mehul.nandwana\\source\\repos\\cafeteriamanagementsystemserver\\cafeteriamanagementsystemserver\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{043BFB39-FF36-4B99-B119-B8594C38BCB5}|CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer.csproj|solutionrelative:cafeteriamanagementsystemserver\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{043BFB39-FF36-4B99-B119-B8594C38BCB5}|CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer.csproj|c:\\users\\mehul.nandwana\\source\\repos\\cafeteriamanagementsystemserver\\cafeteriamanagementsystemserver\\interfaces\\inotificationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{043BFB39-FF36-4B99-B119-B8594C38BCB5}|CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer.csproj|solutionrelative:cafeteriamanagementsystemserver\\interfaces\\inotificationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{043BFB39-FF36-4B99-B119-B8594C38BCB5}|CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer.csproj|c:\\users\\mehul.nandwana\\source\\repos\\cafeteriamanagementsystemserver\\cafeteriamanagementsystemserver\\interfaces\\ifoodrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{043BFB39-FF36-4B99-B119-B8594C38BCB5}|CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer.csproj|solutionrelative:cafeteriamanagementsystemserver\\interfaces\\ifoodrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{043BFB39-FF36-4B99-B119-B8594C38BCB5}|CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer.csproj|c:\\users\\mehul.nandwana\\source\\repos\\cafeteriamanagementsystemserver\\cafeteriamanagementsystemserver\\models\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{043BFB39-FF36-4B99-B119-B8594C38BCB5}|CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer.csproj|solutionrelative:cafeteriamanagementsystemserver\\models\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{043BFB39-FF36-4B99-B119-B8594C38BCB5}|CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer.csproj|c:\\users\\mehul.nandwana\\source\\repos\\cafeteriamanagementsystemserver\\cafeteriamanagementsystemserver\\models\\sentimentresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{043BFB39-FF36-4B99-B119-B8594C38BCB5}|CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer.csproj|solutionrelative:cafeteriamanagementsystemserver\\models\\sentimentresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{043BFB39-FF36-4B99-B119-B8594C38BCB5}|CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer.csproj|c:\\users\\mehul.nandwana\\source\\repos\\cafeteriamanagementsystemserver\\cafeteriamanagementsystemserver\\models\\recommendation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{043BFB39-FF36-4B99-B119-B8594C38BCB5}|CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer.csproj|solutionrelative:cafeteriamanagementsystemserver\\models\\recommendation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{043BFB39-FF36-4B99-B119-B8594C38BCB5}|CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer.csproj|c:\\users\\mehul.nandwana\\source\\repos\\cafeteriamanagementsystemserver\\cafeteriamanagementsystemserver\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{043BFB39-FF36-4B99-B119-B8594C38BCB5}|CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer.csproj|solutionrelative:cafeteriamanagementsystemserver\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{043BFB39-FF36-4B99-B119-B8594C38BCB5}|CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer.csproj|c:\\users\\mehul.nandwana\\source\\repos\\cafeteriamanagementsystemserver\\cafeteriamanagementsystemserver\\models\\currentdayitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{043BFB39-FF36-4B99-B119-B8594C38BCB5}|CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer.csproj|solutionrelative:cafeteriamanagementsystemserver\\models\\currentdayitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{043BFB39-FF36-4B99-B119-B8594C38BCB5}|CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer.csproj|c:\\users\\mehul.nandwana\\source\\repos\\cafeteriamanagementsystemserver\\cafeteriamanagementsystemserver\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{043BFB39-FF36-4B99-B119-B8594C38BCB5}|CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer.csproj|solutionrelative:cafeteriamanagementsystemserver\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{043BFB39-FF36-4B99-B119-B8594C38BCB5}|CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer.csproj|c:\\users\\mehul.nandwana\\source\\repos\\cafeteriamanagementsystemserver\\cafeteriamanagementsystemserver\\cafeteriamanagementsystemserver.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{043BFB39-FF36-4B99-B119-B8594C38BCB5}|CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer.csproj|solutionrelative:cafeteriamanagementsystemserver\\cafeteriamanagementsystemserver.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 278,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Constant.cs",
+              "DocumentMoniker": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer\\Models\\Constant.cs",
+              "RelativeDocumentMoniker": "CafeteriaManagementSystemServer\\Models\\Constant.cs",
+              "ToolTip": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer\\Models\\Constant.cs",
+              "RelativeToolTip": "CafeteriaManagementSystemServer\\Models\\Constant.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T09:52:53.222Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FeedbackService.cs",
+              "DocumentMoniker": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer\\Services\\FeedbackService.cs",
+              "RelativeDocumentMoniker": "CafeteriaManagementSystemServer\\Services\\FeedbackService.cs",
+              "ToolTip": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer\\Services\\FeedbackService.cs",
+              "RelativeToolTip": "CafeteriaManagementSystemServer\\Services\\FeedbackService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T11:08:56.758Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthenticationServiceTest.cs",
+              "DocumentMoniker": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaManagementSystemServer\\CafeteriaManagementSystemServerTests\\AuthenticationServiceTest.cs",
+              "RelativeDocumentMoniker": "CafeteriaManagementSystemServerTests\\AuthenticationServiceTest.cs",
+              "ToolTip": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaManagementSystemServer\\CafeteriaManagementSystemServerTests\\AuthenticationServiceTest.cs",
+              "RelativeToolTip": "CafeteriaManagementSystemServerTests\\AuthenticationServiceTest.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAA5wCgAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T08:49:53.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthenticationService.cs",
+              "DocumentMoniker": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer\\Services\\AuthenticationService.cs",
+              "RelativeDocumentMoniker": "CafeteriaManagementSystemServer\\Services\\AuthenticationService.cs",
+              "ToolTip": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer\\Services\\AuthenticationService.cs",
+              "RelativeToolTip": "CafeteriaManagementSystemServer\\Services\\AuthenticationService.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwBsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T11:30:07.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TestContext.cs",
+              "DocumentMoniker": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaManagementSystemServer\\CafeteriaManagementSystemServerTests\\TestContext.cs",
+              "RelativeDocumentMoniker": "CafeteriaManagementSystemServerTests\\TestContext.cs",
+              "ToolTip": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaManagementSystemServer\\CafeteriaManagementSystemServerTests\\TestContext.cs",
+              "RelativeToolTip": "CafeteriaManagementSystemServerTests\\TestContext.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBcAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T12:53:57.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaManagementSystemServer\\CafeteriaManagementSystemServerTests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "CafeteriaManagementSystemServerTests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaManagementSystemServer\\CafeteriaManagementSystemServerTests\\UnitTest1.cs",
+              "RelativeToolTip": "CafeteriaManagementSystemServerTests\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T12:53:50.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FoodService.cs",
+              "DocumentMoniker": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer\\Services\\FoodService.cs",
+              "RelativeDocumentMoniker": "CafeteriaManagementSystemServer\\Services\\FoodService.cs",
+              "ToolTip": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer\\Services\\FoodService.cs",
+              "RelativeToolTip": "CafeteriaManagementSystemServer\\Services\\FoodService.cs",
+              "ViewState": "AQIAAHoAAAAAAAAAAAAYwL0AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T04:26:54.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FoodRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer\\Repository\\FoodRepository.cs",
+              "RelativeDocumentMoniker": "CafeteriaManagementSystemServer\\Repository\\FoodRepository.cs",
+              "ToolTip": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer\\Repository\\FoodRepository.cs",
+              "RelativeToolTip": "CafeteriaManagementSystemServer\\Repository\\FoodRepository.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAA6wCIAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T04:07:48.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FoodController.cs",
+              "DocumentMoniker": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer\\Controller\\FoodController.cs",
+              "RelativeDocumentMoniker": "CafeteriaManagementSystemServer\\Controller\\FoodController.cs",
+              "ToolTip": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer\\Controller\\FoodController.cs",
+              "RelativeToolTip": "CafeteriaManagementSystemServer\\Controller\\FoodController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBEAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T09:34:37.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FactoryController.cs",
+              "DocumentMoniker": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer\\Controller\\FactoryController.cs",
+              "RelativeDocumentMoniker": "CafeteriaManagementSystemServer\\Controller\\FactoryController.cs",
+              "ToolTip": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer\\Controller\\FactoryController.cs",
+              "RelativeToolTip": "CafeteriaManagementSystemServer\\Controller\\FactoryController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T12:32:04.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserModel.cs",
+              "DocumentMoniker": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer\\DTOs\\UserModel.cs",
+              "RelativeDocumentMoniker": "CafeteriaManagementSystemServer\\DTOs\\UserModel.cs",
+              "ToolTip": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer\\DTOs\\UserModel.cs",
+              "RelativeToolTip": "CafeteriaManagementSystemServer\\DTOs\\UserModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T11:26:15.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "CafeteriaManagementSystemServer\\Interfaces\\IUserService.cs",
+              "ToolTip": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "CafeteriaManagementSystemServer\\Interfaces\\IUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA0AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T12:37:56.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AuthenticationController.cs",
+              "DocumentMoniker": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer\\Controller\\AuthenticationController.cs",
+              "RelativeDocumentMoniker": "CafeteriaManagementSystemServer\\Controller\\AuthenticationController.cs",
+              "ToolTip": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer\\Controller\\AuthenticationController.cs",
+              "RelativeToolTip": "CafeteriaManagementSystemServer\\Controller\\AuthenticationController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T11:27:59.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer\\Controller\\UserController.cs",
+              "RelativeDocumentMoniker": "CafeteriaManagementSystemServer\\Controller\\UserController.cs",
+              "ToolTip": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer\\Controller\\UserController.cs",
+              "RelativeToolTip": "CafeteriaManagementSystemServer\\Controller\\UserController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwBEAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T06:19:09.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ServerHandler.cs",
+              "DocumentMoniker": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer\\ServiceHelper\\ServerHandler.cs",
+              "RelativeDocumentMoniker": "CafeteriaManagementSystemServer\\ServiceHelper\\ServerHandler.cs",
+              "ToolTip": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer\\ServiceHelper\\ServerHandler.cs",
+              "RelativeToolTip": "CafeteriaManagementSystemServer\\ServiceHelper\\ServerHandler.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAwwA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T03:23:45.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RecommendationEngine.cs",
+              "DocumentMoniker": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer\\ServiceHelper\\RecommendationEngine.cs",
+              "RelativeDocumentMoniker": "CafeteriaManagementSystemServer\\ServiceHelper\\RecommendationEngine.cs",
+              "ToolTip": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer\\ServiceHelper\\RecommendationEngine.cs",
+              "RelativeToolTip": "CafeteriaManagementSystemServer\\ServiceHelper\\RecommendationEngine.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowC0AAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T12:59:09.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "JSonSerializer.cs",
+              "DocumentMoniker": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer\\Models\\JSonSerializer.cs",
+              "RelativeDocumentMoniker": "CafeteriaManagementSystemServer\\Models\\JSonSerializer.cs",
+              "ToolTip": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer\\Models\\JSonSerializer.cs",
+              "RelativeToolTip": "CafeteriaManagementSystemServer\\Models\\JSonSerializer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T08:05:17.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "CafeteriaManagementSystemServer\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer\\Services\\UserService.cs",
+              "RelativeToolTip": "CafeteriaManagementSystemServer\\Services\\UserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T09:27:21.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FeedbackController.cs",
+              "DocumentMoniker": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer\\Controller\\FeedbackController.cs",
+              "RelativeDocumentMoniker": "CafeteriaManagementSystemServer\\Controller\\FeedbackController.cs",
+              "ToolTip": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer\\Controller\\FeedbackController.cs",
+              "RelativeToolTip": "CafeteriaManagementSystemServer\\Controller\\FeedbackController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAsAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T11:05:36.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MenuController.cs",
+              "DocumentMoniker": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer\\Controller\\MenuController.cs",
+              "RelativeDocumentMoniker": "CafeteriaManagementSystemServer\\Controller\\MenuController.cs",
+              "ToolTip": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer\\Controller\\MenuController.cs",
+              "RelativeToolTip": "CafeteriaManagementSystemServer\\Controller\\MenuController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T05:43:15.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "RecommendationController.cs",
+              "DocumentMoniker": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer\\Controller\\RecommendationController.cs",
+              "RelativeDocumentMoniker": "CafeteriaManagementSystemServer\\Controller\\RecommendationController.cs",
+              "ToolTip": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer\\Controller\\RecommendationController.cs",
+              "RelativeToolTip": "CafeteriaManagementSystemServer\\Controller\\RecommendationController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T06:19:08.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "MenuRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer\\Repository\\MenuRepository.cs",
+              "RelativeDocumentMoniker": "CafeteriaManagementSystemServer\\Repository\\MenuRepository.cs",
+              "ToolTip": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer\\Repository\\MenuRepository.cs",
+              "RelativeToolTip": "CafeteriaManagementSystemServer\\Repository\\MenuRepository.cs",
+              "ViewState": "AQIAAF8AAAAAAAAAAAAUwEAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T05:44:10.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "FeedbackRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer\\Repository\\FeedbackRepository.cs",
+              "RelativeDocumentMoniker": "CafeteriaManagementSystemServer\\Repository\\FeedbackRepository.cs",
+              "ToolTip": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer\\Repository\\FeedbackRepository.cs",
+              "RelativeToolTip": "CafeteriaManagementSystemServer\\Repository\\FeedbackRepository.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwCgAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T17:08:16.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ExceptionHandler.cs",
+              "DocumentMoniker": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer\\ExceptionHandler\\ExceptionHandler.cs",
+              "RelativeDocumentMoniker": "CafeteriaManagementSystemServer\\ExceptionHandler\\ExceptionHandler.cs",
+              "ToolTip": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer\\ExceptionHandler\\ExceptionHandler.cs",
+              "RelativeToolTip": "CafeteriaManagementSystemServer\\ExceptionHandler\\ExceptionHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAswA8AAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T05:12:40.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "NotificationController.cs",
+              "DocumentMoniker": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer\\Controller\\NotificationController.cs",
+              "RelativeDocumentMoniker": "CafeteriaManagementSystemServer\\Controller\\NotificationController.cs",
+              "ToolTip": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer\\Controller\\NotificationController.cs",
+              "RelativeToolTip": "CafeteriaManagementSystemServer\\Controller\\NotificationController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T06:19:07.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ICommonController.cs",
+              "DocumentMoniker": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer\\Interfaces\\ICommonController.cs",
+              "RelativeDocumentMoniker": "CafeteriaManagementSystemServer\\Interfaces\\ICommonController.cs",
+              "ToolTip": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer\\Interfaces\\ICommonController.cs",
+              "RelativeToolTip": "CafeteriaManagementSystemServer\\Interfaces\\ICommonController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T12:34:13.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer\\Program.cs",
+              "RelativeDocumentMoniker": "CafeteriaManagementSystemServer\\Program.cs",
+              "ToolTip": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer\\Program.cs",
+              "RelativeToolTip": "CafeteriaManagementSystemServer\\Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAkwA8AAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T03:21:32.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "FeedBackData.cs",
+              "DocumentMoniker": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer\\DTOs\\FeedBackData.cs",
+              "RelativeDocumentMoniker": "CafeteriaManagementSystemServer\\DTOs\\FeedBackData.cs",
+              "ToolTip": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer\\DTOs\\FeedBackData.cs",
+              "RelativeToolTip": "CafeteriaManagementSystemServer\\DTOs\\FeedBackData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T11:10:07.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "NLog.config",
+              "DocumentMoniker": "C:\\Users\\mehul.nandwana\\.nuget\\packages\\nlog.config\\4.7.15\\contentFiles\\any\\any\\NLog.config",
+              "RelativeDocumentMoniker": "..\\..\\..\\.nuget\\packages\\nlog.config\\4.7.15\\contentFiles\\any\\any\\NLog.config",
+              "ToolTip": "C:\\Users\\mehul.nandwana\\.nuget\\packages\\nlog.config\\4.7.15\\contentFiles\\any\\any\\NLog.config [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\.nuget\\packages\\nlog.config\\4.7.15\\contentFiles\\any\\any\\NLog.config [Read Only]",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-07-10T09:59:10.27Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "MenuService.cs",
+              "DocumentMoniker": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer\\Services\\MenuService.cs",
+              "RelativeDocumentMoniker": "CafeteriaManagementSystemServer\\Services\\MenuService.cs",
+              "ToolTip": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer\\Services\\MenuService.cs",
+              "RelativeToolTip": "CafeteriaManagementSystemServer\\Services\\MenuService.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAgwE0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T05:51:52.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "FoodItemdata.cs",
+              "DocumentMoniker": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer\\DTOs\\FoodItemdata.cs",
+              "RelativeDocumentMoniker": "CafeteriaManagementSystemServer\\DTOs\\FoodItemdata.cs",
+              "ToolTip": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer\\DTOs\\FoodItemdata.cs",
+              "RelativeToolTip": "CafeteriaManagementSystemServer\\DTOs\\FoodItemdata.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAUAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T20:02:46.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ShowMenuItemData.cs",
+              "DocumentMoniker": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer\\DTOs\\ShowMenuItemData.cs",
+              "RelativeDocumentMoniker": "CafeteriaManagementSystemServer\\DTOs\\ShowMenuItemData.cs",
+              "ToolTip": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer\\DTOs\\ShowMenuItemData.cs",
+              "RelativeToolTip": "CafeteriaManagementSystemServer\\DTOs\\ShowMenuItemData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T11:26:48.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "NotificationData.cs",
+              "DocumentMoniker": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer\\DTOs\\NotificationData.cs",
+              "RelativeDocumentMoniker": "CafeteriaManagementSystemServer\\DTOs\\NotificationData.cs",
+              "ToolTip": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer\\DTOs\\NotificationData.cs",
+              "RelativeToolTip": "CafeteriaManagementSystemServer\\DTOs\\NotificationData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T07:43:22.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "NotificationService.cs",
+              "DocumentMoniker": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer\\Services\\NotificationService.cs",
+              "RelativeDocumentMoniker": "CafeteriaManagementSystemServer\\Services\\NotificationService.cs",
+              "ToolTip": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer\\Services\\NotificationService.cs",
+              "RelativeToolTip": "CafeteriaManagementSystemServer\\Services\\NotificationService.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAA5wCAAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T05:08:54.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Food.cs",
+              "DocumentMoniker": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer\\DTOs\\Food.cs",
+              "RelativeDocumentMoniker": "CafeteriaManagementSystemServer\\DTOs\\Food.cs",
+              "ToolTip": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer\\DTOs\\Food.cs",
+              "RelativeToolTip": "CafeteriaManagementSystemServer\\DTOs\\Food.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T04:18:46.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "FoodItem.cs",
+              "DocumentMoniker": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer\\Models\\FoodItem.cs",
+              "RelativeDocumentMoniker": "CafeteriaManagementSystemServer\\Models\\FoodItem.cs",
+              "ToolTip": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer\\Models\\FoodItem.cs",
+              "RelativeToolTip": "CafeteriaManagementSystemServer\\Models\\FoodItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAUAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T04:19:07.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer\\Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "CafeteriaManagementSystemServer\\Repository\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer\\Repository\\UserRepository.cs",
+              "RelativeToolTip": "CafeteriaManagementSystemServer\\Repository\\UserRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T09:17:59.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "RecommendationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer\\Repository\\RecommendationRepository.cs",
+              "RelativeDocumentMoniker": "CafeteriaManagementSystemServer\\Repository\\RecommendationRepository.cs",
+              "ToolTip": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer\\Repository\\RecommendationRepository.cs",
+              "RelativeToolTip": "CafeteriaManagementSystemServer\\Repository\\RecommendationRepository.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwBoAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T06:19:20.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "NotificationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer\\Repository\\NotificationRepository.cs",
+              "RelativeDocumentMoniker": "CafeteriaManagementSystemServer\\Repository\\NotificationRepository.cs",
+              "ToolTip": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer\\Repository\\NotificationRepository.cs",
+              "RelativeToolTip": "CafeteriaManagementSystemServer\\Repository\\NotificationRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T03:53:15.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "CafeteriaMangagementSystemContext.cs",
+              "DocumentMoniker": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer\\Models\\CafeteriaMangagementSystemContext.cs",
+              "RelativeDocumentMoniker": "CafeteriaManagementSystemServer\\Models\\CafeteriaMangagementSystemContext.cs",
+              "ToolTip": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer\\Models\\CafeteriaMangagementSystemContext.cs",
+              "RelativeToolTip": "CafeteriaManagementSystemServer\\Models\\CafeteriaMangagementSystemContext.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAqwGMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T15:40:43.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "RecommendationService.cs",
+              "DocumentMoniker": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer\\Services\\RecommendationService.cs",
+              "RelativeDocumentMoniker": "CafeteriaManagementSystemServer\\Services\\RecommendationService.cs",
+              "ToolTip": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer\\Services\\RecommendationService.cs",
+              "RelativeToolTip": "CafeteriaManagementSystemServer\\Services\\RecommendationService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T06:19:45.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "IRecommendationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer\\Interfaces\\IRecommendationRepository.cs",
+              "RelativeDocumentMoniker": "CafeteriaManagementSystemServer\\Interfaces\\IRecommendationRepository.cs",
+              "ToolTip": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer\\Interfaces\\IRecommendationRepository.cs",
+              "RelativeToolTip": "CafeteriaManagementSystemServer\\Interfaces\\IRecommendationRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T06:19:18.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "INotificationService.cs",
+              "DocumentMoniker": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer\\Interfaces\\INotificationService.cs",
+              "RelativeDocumentMoniker": "CafeteriaManagementSystemServer\\Interfaces\\INotificationService.cs",
+              "ToolTip": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer\\Interfaces\\INotificationService.cs",
+              "RelativeToolTip": "CafeteriaManagementSystemServer\\Interfaces\\INotificationService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T06:19:49.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Notification.cs",
+              "DocumentMoniker": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer\\Models\\Notification.cs",
+              "RelativeDocumentMoniker": "CafeteriaManagementSystemServer\\Models\\Notification.cs",
+              "ToolTip": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer\\Models\\Notification.cs",
+              "RelativeToolTip": "CafeteriaManagementSystemServer\\Models\\Notification.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T06:19:34.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "FoodNotFound.cs",
+              "DocumentMoniker": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer\\ExceptionHandler\\FoodNotFound.cs",
+              "RelativeDocumentMoniker": "CafeteriaManagementSystemServer\\ExceptionHandler\\FoodNotFound.cs",
+              "ToolTip": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer\\ExceptionHandler\\FoodNotFound.cs",
+              "RelativeToolTip": "CafeteriaManagementSystemServer\\ExceptionHandler\\FoodNotFound.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T10:41:38.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer\\App.config",
+              "RelativeDocumentMoniker": "CafeteriaManagementSystemServer\\App.config",
+              "ToolTip": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer\\App.config",
+              "RelativeToolTip": "CafeteriaManagementSystemServer\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-06-17T06:19:45.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "ControllerNotfound.cs",
+              "DocumentMoniker": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer\\ExceptionHandler\\ControllerNotfound.cs",
+              "RelativeDocumentMoniker": "CafeteriaManagementSystemServer\\ExceptionHandler\\ControllerNotfound.cs",
+              "ToolTip": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer\\ExceptionHandler\\ControllerNotfound.cs",
+              "RelativeToolTip": "CafeteriaManagementSystemServer\\ExceptionHandler\\ControllerNotfound.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T05:27:39.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "DiscardItemData.cs",
+              "DocumentMoniker": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer\\DTOs\\DiscardItemData.cs",
+              "RelativeDocumentMoniker": "CafeteriaManagementSystemServer\\DTOs\\DiscardItemData.cs",
+              "ToolTip": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer\\DTOs\\DiscardItemData.cs",
+              "RelativeToolTip": "CafeteriaManagementSystemServer\\DTOs\\DiscardItemData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T06:35:30.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "CustomProtocolParameters.cs",
+              "DocumentMoniker": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer\\Models\\CustomProtocolParameters.cs",
+              "RelativeDocumentMoniker": "CafeteriaManagementSystemServer\\Models\\CustomProtocolParameters.cs",
+              "ToolTip": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer\\Models\\CustomProtocolParameters.cs",
+              "RelativeToolTip": "CafeteriaManagementSystemServer\\Models\\CustomProtocolParameters.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA4AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T03:23:39.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "DetailFeedback.cs",
+              "DocumentMoniker": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer\\Models\\DetailFeedback.cs",
+              "RelativeDocumentMoniker": "CafeteriaManagementSystemServer\\Models\\DetailFeedback.cs",
+              "ToolTip": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer\\Models\\DetailFeedback.cs",
+              "RelativeToolTip": "CafeteriaManagementSystemServer\\Models\\DetailFeedback.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAUAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T14:43:01.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "DiscardItem.cs",
+              "DocumentMoniker": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer\\Models\\DiscardItem.cs",
+              "RelativeDocumentMoniker": "CafeteriaManagementSystemServer\\Models\\DiscardItem.cs",
+              "ToolTip": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer\\Models\\DiscardItem.cs",
+              "RelativeToolTip": "CafeteriaManagementSystemServer\\Models\\DiscardItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T07:09:33.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Feedback.cs",
+              "DocumentMoniker": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer\\Models\\Feedback.cs",
+              "RelativeDocumentMoniker": "CafeteriaManagementSystemServer\\Models\\Feedback.cs",
+              "ToolTip": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer\\Models\\Feedback.cs",
+              "RelativeToolTip": "CafeteriaManagementSystemServer\\Models\\Feedback.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T03:13:48.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "MealType.cs",
+              "DocumentMoniker": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer\\Models\\MealType.cs",
+              "RelativeDocumentMoniker": "CafeteriaManagementSystemServer\\Models\\MealType.cs",
+              "ToolTip": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer\\Models\\MealType.cs",
+              "RelativeToolTip": "CafeteriaManagementSystemServer\\Models\\MealType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T06:19:35.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer\\Models\\Menu.cs",
+              "RelativeDocumentMoniker": "CafeteriaManagementSystemServer\\Models\\Menu.cs",
+              "ToolTip": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer\\Models\\Menu.cs",
+              "RelativeToolTip": "CafeteriaManagementSystemServer\\Models\\Menu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAUAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T14:51:15.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "ItemAlreadyExists.cs",
+              "DocumentMoniker": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer\\ExceptionHandler\\ItemAlreadyExists.cs",
+              "RelativeDocumentMoniker": "CafeteriaManagementSystemServer\\ExceptionHandler\\ItemAlreadyExists.cs",
+              "ToolTip": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer\\ExceptionHandler\\ItemAlreadyExists.cs",
+              "RelativeToolTip": "CafeteriaManagementSystemServer\\ExceptionHandler\\ItemAlreadyExists.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T03:40:17.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "DetailFeedbackData.cs",
+              "DocumentMoniker": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer\\DTOs\\DetailFeedbackData.cs",
+              "RelativeDocumentMoniker": "CafeteriaManagementSystemServer\\DTOs\\DetailFeedbackData.cs",
+              "ToolTip": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer\\DTOs\\DetailFeedbackData.cs",
+              "RelativeToolTip": "CafeteriaManagementSystemServer\\DTOs\\DetailFeedbackData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T19:01:07.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "ChoiceData.cs",
+              "DocumentMoniker": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer\\DTOs\\ChoiceData.cs",
+              "RelativeDocumentMoniker": "CafeteriaManagementSystemServer\\DTOs\\ChoiceData.cs",
+              "ToolTip": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer\\DTOs\\ChoiceData.cs",
+              "RelativeToolTip": "CafeteriaManagementSystemServer\\DTOs\\ChoiceData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T18:13:10.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "UserPreference.cs",
+              "DocumentMoniker": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer\\Models\\UserPreference.cs",
+              "RelativeDocumentMoniker": "CafeteriaManagementSystemServer\\Models\\UserPreference.cs",
+              "ToolTip": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer\\Models\\UserPreference.cs",
+              "RelativeToolTip": "CafeteriaManagementSystemServer\\Models\\UserPreference.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T14:42:36.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "IMenuService.cs",
+              "DocumentMoniker": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer\\Interfaces\\IMenuService.cs",
+              "RelativeDocumentMoniker": "CafeteriaManagementSystemServer\\Interfaces\\IMenuService.cs",
+              "ToolTip": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer\\Interfaces\\IMenuService.cs",
+              "RelativeToolTip": "CafeteriaManagementSystemServer\\Interfaces\\IMenuService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T13:03:44.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "IFeedbackRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer\\Interfaces\\IFeedbackRepository.cs",
+              "RelativeDocumentMoniker": "CafeteriaManagementSystemServer\\Interfaces\\IFeedbackRepository.cs",
+              "ToolTip": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer\\Interfaces\\IFeedbackRepository.cs",
+              "RelativeToolTip": "CafeteriaManagementSystemServer\\Interfaces\\IFeedbackRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T13:34:16.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "IMenuRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer\\Interfaces\\IMenuRepository.cs",
+              "RelativeDocumentMoniker": "CafeteriaManagementSystemServer\\Interfaces\\IMenuRepository.cs",
+              "ToolTip": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer\\Interfaces\\IMenuRepository.cs",
+              "RelativeToolTip": "CafeteriaManagementSystemServer\\Interfaces\\IMenuRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T13:36:08.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "MenuData.cs",
+              "DocumentMoniker": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer\\DTOs\\MenuData.cs",
+              "RelativeDocumentMoniker": "CafeteriaManagementSystemServer\\DTOs\\MenuData.cs",
+              "ToolTip": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer\\DTOs\\MenuData.cs",
+              "RelativeToolTip": "CafeteriaManagementSystemServer\\DTOs\\MenuData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T06:24:23.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "Choice.cs",
+              "DocumentMoniker": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer\\Models\\Choice.cs",
+              "RelativeDocumentMoniker": "CafeteriaManagementSystemServer\\Models\\Choice.cs",
+              "ToolTip": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer\\Models\\Choice.cs",
+              "RelativeToolTip": "CafeteriaManagementSystemServer\\Models\\Choice.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAUAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T03:13:36.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "UserNotFound.cs",
+              "DocumentMoniker": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer\\ExceptionHandler\\UserNotFound.cs",
+              "RelativeDocumentMoniker": "CafeteriaManagementSystemServer\\ExceptionHandler\\UserNotFound.cs",
+              "ToolTip": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer\\ExceptionHandler\\UserNotFound.cs",
+              "RelativeToolTip": "CafeteriaManagementSystemServer\\ExceptionHandler\\UserNotFound.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T10:50:35.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "NoMenuItem.cs",
+              "DocumentMoniker": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer\\ExceptionHandler\\NoMenuItem.cs",
+              "RelativeDocumentMoniker": "CafeteriaManagementSystemServer\\ExceptionHandler\\NoMenuItem.cs",
+              "ToolTip": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer\\ExceptionHandler\\NoMenuItem.cs",
+              "RelativeToolTip": "CafeteriaManagementSystemServer\\ExceptionHandler\\NoMenuItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T10:45:20.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "Server.cs",
+              "DocumentMoniker": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer\\Models\\Server.cs",
+              "RelativeDocumentMoniker": "CafeteriaManagementSystemServer\\Models\\Server.cs",
+              "ToolTip": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer\\Models\\Server.cs",
+              "RelativeToolTip": "CafeteriaManagementSystemServer\\Models\\Server.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAqwBcAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T12:54:56.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "IRecommendationService.cs",
+              "DocumentMoniker": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer\\Interfaces\\IRecommendationService.cs",
+              "RelativeDocumentMoniker": "CafeteriaManagementSystemServer\\Interfaces\\IRecommendationService.cs",
+              "ToolTip": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer\\Interfaces\\IRecommendationService.cs",
+              "RelativeToolTip": "CafeteriaManagementSystemServer\\Interfaces\\IRecommendationService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T06:19:49.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "IFoodService.cs",
+              "DocumentMoniker": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer\\Interfaces\\IFoodService.cs",
+              "RelativeDocumentMoniker": "CafeteriaManagementSystemServer\\Interfaces\\IFoodService.cs",
+              "ToolTip": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer\\Interfaces\\IFoodService.cs",
+              "RelativeToolTip": "CafeteriaManagementSystemServer\\Interfaces\\IFoodService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T04:24:23.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "IFeedbackService.cs",
+              "DocumentMoniker": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer\\Interfaces\\IFeedbackService.cs",
+              "RelativeDocumentMoniker": "CafeteriaManagementSystemServer\\Interfaces\\IFeedbackService.cs",
+              "ToolTip": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer\\Interfaces\\IFeedbackService.cs",
+              "RelativeToolTip": "CafeteriaManagementSystemServer\\Interfaces\\IFeedbackService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T12:27:21.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "CafeteriaManagementSystemServer\\Interfaces\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "CafeteriaManagementSystemServer\\Interfaces\\IUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T09:29:27.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "INotificationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer\\Interfaces\\INotificationRepository.cs",
+              "RelativeDocumentMoniker": "CafeteriaManagementSystemServer\\Interfaces\\INotificationRepository.cs",
+              "ToolTip": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer\\Interfaces\\INotificationRepository.cs",
+              "RelativeToolTip": "CafeteriaManagementSystemServer\\Interfaces\\INotificationRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T06:19:17.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "IFoodRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer\\Interfaces\\IFoodRepository.cs",
+              "RelativeDocumentMoniker": "CafeteriaManagementSystemServer\\Interfaces\\IFoodRepository.cs",
+              "ToolTip": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer\\Interfaces\\IFoodRepository.cs",
+              "RelativeToolTip": "CafeteriaManagementSystemServer\\Interfaces\\IFoodRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T04:28:37.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "Response.cs",
+              "DocumentMoniker": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer\\Models\\Response.cs",
+              "RelativeDocumentMoniker": "CafeteriaManagementSystemServer\\Models\\Response.cs",
+              "ToolTip": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer\\Models\\Response.cs",
+              "RelativeToolTip": "CafeteriaManagementSystemServer\\Models\\Response.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T14:53:42.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "SentimentResult.cs",
+              "DocumentMoniker": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer\\Models\\SentimentResult.cs",
+              "RelativeDocumentMoniker": "CafeteriaManagementSystemServer\\Models\\SentimentResult.cs",
+              "ToolTip": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer\\Models\\SentimentResult.cs",
+              "RelativeToolTip": "CafeteriaManagementSystemServer\\Models\\SentimentResult.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T07:51:59.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "Recommendation.cs",
+              "DocumentMoniker": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer\\Models\\Recommendation.cs",
+              "RelativeDocumentMoniker": "CafeteriaManagementSystemServer\\Models\\Recommendation.cs",
+              "ToolTip": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer\\Models\\Recommendation.cs",
+              "RelativeToolTip": "CafeteriaManagementSystemServer\\Models\\Recommendation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T06:19:31.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer\\Models\\User.cs",
+              "RelativeDocumentMoniker": "CafeteriaManagementSystemServer\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer\\Models\\User.cs",
+              "RelativeToolTip": "CafeteriaManagementSystemServer\\Models\\User.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAgwBgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T06:19:24.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "CurrentDayItem.cs",
+              "DocumentMoniker": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer\\Models\\CurrentDayItem.cs",
+              "RelativeDocumentMoniker": "CafeteriaManagementSystemServer\\Models\\CurrentDayItem.cs",
+              "ToolTip": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer\\Models\\CurrentDayItem.cs",
+              "RelativeToolTip": "CafeteriaManagementSystemServer\\Models\\CurrentDayItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T03:13:46.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer\\Models\\Role.cs",
+              "RelativeDocumentMoniker": "CafeteriaManagementSystemServer\\Models\\Role.cs",
+              "ToolTip": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer\\Models\\Role.cs",
+              "RelativeToolTip": "CafeteriaManagementSystemServer\\Models\\Role.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T03:51:46.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "CafeteriaManagementSystemServer",
+              "DocumentMoniker": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer.csproj",
+              "RelativeDocumentMoniker": "CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer.csproj",
+              "ToolTip": "C:\\Users\\mehul.nandwana\\source\\repos\\CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer.csproj",
+              "RelativeToolTip": "CafeteriaManagementSystemServer\\CafeteriaManagementSystemServer.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-15T16:11:02.132Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 9,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
