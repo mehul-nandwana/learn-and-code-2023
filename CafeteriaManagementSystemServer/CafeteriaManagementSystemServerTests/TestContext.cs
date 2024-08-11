@@ -1,0 +1,39 @@
+using CafeteriaManagementSystemServer.Interfaces;
+using CafeteriaManagementSystemServer.Models;
+using CafeteriaRecomendationEngineClient.DTO;
+using Moq;
+
+namespace CafeteriaManagementSystemServerTests
+{
+    public class TestContext
+    {
+        private const string notificationType = CafeteriaManagementSystemServer.Models.Constant.ADD_FOOD_NOTIFICATION;
+        private const string notificationMessage = "food is Added to the Menu";
+        private const int UserId = 1;
+        private const bool Sweet = false;
+        private const int SpiceLevel = 2;
+        private const string IsVegeterian = "vegetarian";
+        private const string CuisineType = "indian";
+        public Mock<INotificationRepository> notificationRepository = new Mock<INotificationRepository>();
+
+        public Notification GetAddFoodNotification()
+        {
+            Notification notification = new Notification();
+            notification.NotificationType = notificationType;
+            notification.NotificationMessage = notificationMessage;
+            return notification;
+        }
+
+        public UserPreference GetUserPreference()
+        {
+            UserPreference userPreference = new UserPreference();
+            userPreference.UserId = UserId;
+            userPreference.Id = 1;
+            userPreference.Sweet = Sweet;
+            userPreference.SpiceLevel = SpiceLevel;
+            userPreference.IsVegeterian = IsVegeterian;
+            userPreference.CuisineType = CuisineType;
+            return userPreference;
+        }
+    }
+}
